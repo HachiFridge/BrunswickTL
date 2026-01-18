@@ -1,0 +1,325 @@
+{
+  "title": "新年の抱負",
+  "no_wrap": false,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "It is now the classic year. As for Stay Gold..."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "...Hey, have you tried the steak over there? The one they grill right in front of you. It was delicious."
+    },
+    {
+      "name": "",
+      "text": "I was here with him at the Mejiro family's New Year's party, invited by Mejiro McQueen.",
+      "choice_data_list": [
+        "You're the same as always, no matter where you are...",
+        "You're the same as always, no matter where you are..."
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Unfortunately, I only know how to be 'the same as always.'"
+    },
+    {
+      "name": "???",
+      "text": "Stego-sama~."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Happy New Year. I look forward to working with you this year as well~."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Oh, Bright and Dober. Happy New Year."
+    },
+    {
+      "name": "",
+      "text": "The Umamusume who appeared with Mejiro Bright was Mejiro Dober. Like Mejiro Bright, she's a contemporary of Stay Gold, but..."
+    },
+    {
+      "name": "",
+      "text": "She's an Umamusume aiming to run in the 'Oka Sho,' 'Yushun Himba,' and 'Shuka Sho,' following the Tiara route. As such, there are currently few opportunities to compete against her in races."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "I heard you're training with McQueen. That it's going really well."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Hahaha. Actually, I just keep getting beaten to a pulp by him every time, but..."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Thanks to that, the view's getting better. Well, in that sense, it's going smoothly."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "I've also started my final adjustments for spring~."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "I'm looking forward to it. Competing against you, Stego-sama, in the Classic races."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Haha, that's an honor."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "I'll definitely make it there. ...To the 'Satsuki Sho.'"
+    },
+    {
+      "name": "",
+      "text": "After chatting briefly with Mejiro Bright and the others, while enjoying the food with Stay Gold..."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Well, I'm feeling pretty full, so I think it's about time to head out~.",
+      "choice_data_list": [
+        "Huh, but we haven't seen McQueen yet."
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "We'll probably meet during training anyway. I can thank him for today then..."
+    },
+    {
+      "name": "???",
+      "text": "...I thought it might be something like that."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Honestly, if I don't go to you, you'd really just leave..."
+    },
+    {
+      "name": "A Refined Chestnut Umamusume",
+      "text": "Happy New Year, Stay Gold-sama. I look forward to working with you this year as well."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Yeah, Happy New Year. Thanks for all your help last year."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Also, the food was delicious, McQueen. Especially the meat.",
+      "choice_data_list": [
+        "Thanks for inviting me"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "I'm glad you enjoyed it, but wouldn't you like to stay a little longer?"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Staying in one place just isn't in my nature. I was thinking of going out to play or something—"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "...That's right. You guys should come too, McQueen. It's a good opportunity. Let's have fun together."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Again, that's quite sudden—"
+    },
+    {
+      "name": "A Refined Chestnut Umamusume",
+      "text": "...Um, McQueen-sama. If it's alright, I'd like to accompany Stay Gold-sama."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Oh, nice. That makes it 3 against 1.",
+      "choice_data_list": [
+        "(When did I get included in the count...?)"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Understood. Actually, I was free after this, so I'll join you. However—"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Please escort us properly. After all, you're the one who suggested it."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Got it. Alright, Trainer, I'll leave the destination to you.",
+      "choice_data_list": [
+        "Huh, me!?",
+        "Huh, me!?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "It'll probably be more fun than if I decide. I'm counting on you."
+    },
+    {
+      "name": "",
+      "text": "It was a sudden, unreasonable request, but as a companion on her journey, I want to meet her expectations. For now, what comes to mind is—",
+      "choice_data_list": [
+        "Um, go for a walk...?",
+        "Go for tea somewhere...?",
+        "Go to an arcade or something...?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Haha, yeah, just wandering around aimlessly works too. Alright, let's go."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Wh-where are you planning to go?"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "If we decide that, it's not a walk anymore, right? Whatever, just whatever."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "........So."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Where in the world is this place!?"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "So, where could it be?\nWell, it's a nice view, isn't it?"
+    },
+    {
+      "name": "Elegant Chestnut Umamusume",
+      "text": "...A beautiful sunset...——"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Yeah.\nIt looks like the horizon is on fire.",
+      "choice_data_list": [
+        "Sorry about something, McQueen..."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Haa... It's fine.\nThis is just how you are..."
+    },
+    {
+      "name": "",
+      "text": "...After admiring the beautiful sunset like this,\nwe ended up checking our current location and being surprised——"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Tea, huh?... Good opportunity.\nThere's a shop I've been wanting to check out.",
+      "choice_data_list": [
+        "Then, let's go there"
+      ]
+    },
+    {
+      "name": "Elegant Chestnut Umamusume",
+      "text": "A shop that Stay Gold-sama is interested in...\nI'm very curious!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "................I have a bad feeling about this."
+    },
+    {
+      "name": "Zombie Cafe Staff",
+      "text": "Ava va va!! (We'll take your order!)\nVa va vaa! (Please wait a moment!)"
+    },
+    {
+      "name": "Zombie Cafe Staff",
+      "text": "Vaa~~~!!! (Thank you very much!)"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Eek...! W-what is this!?\nThis creepy shop!!"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Ha ha ha! Their movements are amazing!\nAnd I have no idea what they're saying!!",
+      "choice_data_list": [
+        "The designs are so realistic...!",
+        "The designs are so realistic...!"
+      ]
+    },
+    {
+      "name": "Elegant Chestnut Umamusume",
+      "text": "Looking closely, the interior is very elaborate too,\nit's wonderful...!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Oh come on, why are all of you\nenjoying this normally!?"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Hey hey, calm down.\nThe sweets are supposed to be delicious,\nso look forward to it."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Really...!?\nIf it's a lie, I won't forgive you...!"
+    },
+    {
+      "name": "",
+      "text": "After that, we all enjoyed\nthe sweets that looked creepy but tasted exquisite——"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "An arcade, huh.\nWell, maybe that's good once in a while."
+    },
+    {
+      "name": "Elegant Chestnut Umamusume",
+      "text": "A game center, right?\nI've never been, so I'm curious...!"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Huh...\nThen, let's go enjoy the unknown. Young lady."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "--Hup, hup, hup."
+    },
+    {
+      "name": "Elegant Chestnut Umamusume",
+      "text": "Stay Gold-sama, you're amazing...!\nEvery shot is hitting perfectly...!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "P-please don't come any closer!\nAhh, I'm out of ammo...!"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Got it, leave it to me. --Right here.",
+      "choice_data_list": [
+        "Whoa, you hit the weak spot in one shot...!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ah, thank you...\nYou saved me."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Phew. Well, I'm taking a break now,\nso McQueen, do your best on your own for a while."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "W-wait, at this moment!?\nAt least wait until it's over--"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "I'll help if you ask me to.\nSo, what'll it be?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ah, you planned this from the start...!\nAhh! There are too many enemies!!"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Hang in there~, McQuee~n."
+    },
+    {
+      "name": "",
+      "text": "And so, everyone had a lively time\nplaying at the arcade--"
+    }
+  ]
+}

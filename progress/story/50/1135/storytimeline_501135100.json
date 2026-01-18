@@ -1,0 +1,428 @@
+{
+  "title": "ステイゴールド登場！",
+  "no_wrap": false,
+  "text_block_list": [
+    {
+      "name": "Stay Gold",
+      "text": "Ah...――\nWhat a beautiful starry sky...――"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "...It feels like I'm enveloped by the night and the sound of the waves."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "――...I wonder if you're feeling it too."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "…………――"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "...I'm about to begin. My \"journey.\""
+    },
+    {
+      "name": "Stay Gold",
+      "text": "...I'm sure I'll walk a different path than you."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "I don't know what awaits me...\nbut...――"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "I'll enjoy it. As my heart desires."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "If I find \"new gold\" at the end of my journey... I'll come talk to you again."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "With lots of souvenir stories."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Well then, shall we go? To the starting place――"
+    },
+    {
+      "name": "",
+      "text": "――The three years of challenging the Twinkle Series with Stay Gold were finally about to begin."
+    },
+    {
+      "name": "",
+      "text": "...They were about to begin, but――"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "So, Stay Gold-san's signature is still missing from the trainer contract.",
+      "choice_data_list": [
+        "Yes..."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "For the final registration procedures, the trainer contract is absolutely necessary, so I'd like you to handle it as soon as possible――"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "...Trainer-san, you also don't know where Stay Gold-san is right now?",
+      "choice_data_list": [
+        "Yes…………"
+      ]
+    },
+    {
+      "name": "",
+      "text": "I was being asked by the chairman's secretary, Tazuna-san, about when the trainer contract with Stay Gold would be submitted."
+    },
+    {
+      "name": "",
+      "text": "...Stay Gold and I met on a journey, and that connection brought us together."
+    },
+    {
+      "name": "",
+      "text": "Stay Gold has solid potential as a racing umamusume. And on top of that――"
+    },
+    {
+      "name": "",
+      "text": "She was a unique umamusume who possessed the memories of a \"Stay Gold\" from another world."
+    },
+    {
+      "name": "",
+      "text": "Thanks to Stay Gold's arrangement, I was able to catch a powerful glimpse of the hoofprints of that girl from another world, a part of them."
+    },
+    {
+      "name": "",
+      "text": "That's why I'm convinced that her \"memories\" are real—that they truly happened in another world."
+    },
+    {
+      "name": "",
+      "text": "And so, I signed a contract to become her trainer, to journey together with Stay Gold on a 'trip that would shatter all of the past.'"
+    },
+    {
+      "name": "",
+      "text": "All to make Stay Gold's journey more interesting and to enjoy it together."
+    },
+    {
+      "name": "",
+      "text": "...But at this point, I hadn't gotten her signature on the contract paperwork."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "'——Well then, I guess I'll be off. Get the debut preparations ready while I'm gone.'"
+    },
+    {
+      "name": "",
+      "text": "Stay Gold herself said that and went on a small trip as a pre-debut break. Who would have thought it would come back to haunt us now...!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "I understand the situation. I'll try to adjust things from my end to delay the submission a bit more——"
+    },
+    {
+      "name": "???",
+      "text": "——Oh~, there you are."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Hey. Sorry to keep you waiting.",
+      "choice_data_list": [
+        "Stay Gold! You're finally back...!"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "I've got souvenirs~. A wooden bear carving, a bone necklace that wards off evil, right? A scented pouch with a strange smell——",
+      "choice_data_list": [
+        "I'm curious, but more importantly right now...!"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Huh? Ah~, right, right."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "——Yes. I've confirmed the signature. I'll take it from here."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Whoops, my bad, my bad. I had no idea my signature was needed."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "So? Is there anything else I need to do?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Yes. Since submitting this contract was the last step, the procedures are finally complete. I'm relieved too...!"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Great. Then, case closed——"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "I think I'll go for a little run, it's been a while.",
+      "choice_data_list": [
+        "Huh, right now?"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Um, I'd like to explain the post-contract procedures after this..."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Ah, about that, you can hear it from her."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "--Well, see ya later~."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Ah, wait, Stay Gold-san...!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "She's gone...",
+      "choice_data_list": [
+        "She really does things at her own pace..."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "...But, it's that girl who chose you as her Trainer."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "That is something to be very happy about. The road ahead may be tough... but please do your best.",
+      "choice_data_list": [
+        "Yes!"
+      ]
+    },
+    {
+      "name": "",
+      "text": "After receiving the explanation from Tazuna-san, I head to the training course to look for Stay Gold--"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "--Hmph!"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "--Haha...!"
+    },
+    {
+      "name": "",
+      "text": "Stay Gold, running happily on the course. Her form, roughly cutting through the wind, is powerful and sharp, belying her small stature.",
+      "choice_data_list": [
+        "(As I thought, she has amazing talent...!)"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "--Phew...! Running on the course really is the best, huh~.",
+      "choice_data_list": [
+        "Stego! Sorry to keep you waiting"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Oh, you're here. Alrighty then--",
+      "choice_data_list": [
+        "It's about the future, right?",
+        "It's about the future, isn't it?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Nah, it's about food.",
+      "choice_data_list": [
+        "Food, huh~...!"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "--Alright. Let's call it a day here~.",
+      "choice_data_list": [
+        "W-wait, you mean we're going outside the academy...?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Places with a good view make it easier to see the path ahead. And the food tastes better too. It's all good."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Phew~, ate up, ate up."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "...But anyway, about this 'future talk,' the guiding principle for our journey is already decided, right?",
+      "choice_data_list": [
+        "...'A new journey that destroys all of the past,' right?",
+        "...'A new journey that destroys all of the past,' right?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "That's right."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "...In another world, I, at the end of that journey, grasped a unique, unparalleled gold."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "That dazzling memory remains within me even now, as an undying brilliance..."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "...However, that is, after all, the gold that I from another world found."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "What's here now isn't mine."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "…………I want to find it, you know."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "The 'new journey that destroys all of the past' that lies ahead. At its end――"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "――――A 'new gold'."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "A gold that belongs only to the me of now.",
+      "choice_data_list": [
+        "……!"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "――And so, as a companion, you're gonna come along on this journey with me.",
+      "choice_data_list": [
+        "……Where does this journey end?",
+        "……Where does this journey end?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Who knows. Won't know unless we move forward.",
+      "choice_data_list": [
+        "……I see"
+      ]
+    },
+    {
+      "name": "",
+      "text": "We don't know where the final destination of the journey is. But we do know the direction we should go."
+    },
+    {
+      "name": "",
+      "text": "What's important is destroying all of the past journeys. In other words, you could also say it's about carving a different hoofprint from hers in another world."
+    },
+    {
+      "name": "",
+      "text": "Then, in order to find a 'new gold', what we should aim for with Stay Gold from now on is――",
+      "choice_data_list": [
+        "Let's aim for the Classic races"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "……Huh."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "The me in another world did indeed run the 'Kikuka-shō'. ……Well, you couldn't exactly call it a good result, even to be polite."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "So first, we're gonna try to rewrite that one, is that it?",
+      "choice_data_list": [
+        "No. Let's aim to run from the 'Satsuki-shō'!"
+      ]
+    },
+    {
+      "name": "",
+      "text": "The Classic races. They are a stage of tradition and glory that only the top-class Classic-level Umamusume can challenge."
+    },
+    {
+      "name": "",
+      "text": "Among them, there exists the grouping called the 'Classic Triple Crown', comprised of the three races: the 'Satsuki-shō', the 'Japanese Derby', and the 'Kikuka-shō'――"
+    },
+    {
+      "name": "",
+      "text": "If we could run all of this Classic Triple Crown, if we could win them. That would undoubtedly be a new hoofprint different from hers in another world."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "All of them starting from the 'Satsuki-shō', huh. That's definitely the best way to smash the 'memories'."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "But still…… Heheh――"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "The me of now hasn't even debuted yet. And yet you're aiming for the Classics? That's pretty ambitious.",
+      "choice_data_list": [
+        "I thought that would surely be more interesting"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Hahah! No doubt about it."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "...Now that we've settled the matter, can I ask you for a favor?",
+      "choice_data_list": [
+        "A favor?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Yeah. My habit of leaning to the left. I want to fix this as soon as possible."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Seems like I've had a lot of trouble with this... If we're aiming for the Classic races, we should take care of it, right?",
+      "choice_data_list": [
+        "Got it, leave it to me...!",
+        "Got it, leave it to...!"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Good, you're full of motivation. If we're traveling the same path, that's how it should be."
+    },
+    {
+      "name": "",
+      "text": "...And so, with our big goal and immediate challenge set, the preparations for the journey were complete."
+    },
+    {
+      "name": "",
+      "text": "——What kind of end will this journey with her, so free-spirited, lead to?",
+      "choice_data_list": [
+        "(...Whatever end it may be——)"
+      ]
+    },
+    {
+      "name": "",
+      "text": "I'll definitely see it through. ...And enjoy it together."
+    },
+    {
+      "name": "",
+      "text": "With that renewed determination, the journey with Stay Gold began——"
+    }
+  ]
+}

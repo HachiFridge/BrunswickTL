@@ -1,0 +1,240 @@
+{
+  "title": "ゆるふわ、たったか、始動します",
+  "no_wrap": false,
+  "text_block_list": [
+    {
+      "name": "Taiyaki Shop",
+      "text": "Taiyaki, taiyaki, how about some taiyaki~? Only one left!",
+      "choice_data_list": [
+        "Excuse me, one please――"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "One taiyaki, please!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...Huh! Whoa, sorry! Please, please, please go ahead!",
+      "choice_data_list": [
+        "No, no, you go ahead"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "No, but, but, but we said it at the same time! ...Oh! That's right!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Mmm, warm, fluffy, and very delicious~. Thank you for the treat!",
+      "choice_data_list": [
+        "Sorry for taking half",
+        "Sorry for taking half"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "No, no, sharing half makes it taste better somehow! By the way, you're a trainer from the academy, huh?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "This must be some kind of fate. Let's meet again somewhere!"
+    },
+    {
+      "name": "",
+      "text": "A few days after that happened."
+    },
+    {
+      "name": "Nikuman Shop",
+      "text": "Nikuman, nikuman, how about some nikuman~? Only one left~!",
+      "choice_data_list": [
+        "Excuse me, one please――"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "One nikuman, please!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...Huh!? Whoa, sorry... wait, huh!? It was you!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Wowow~, things like this happen, huh? ...Should we share half again today? Hehe."
+    },
+    {
+      "name": "",
+      "text": "As we kept repeating things like that――"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ah, good morning! Right, right! Take a look at this photo~!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Mufufu, guess what... I got a brand-new spider plushie! It's just so cute!"
+    },
+    {
+      "name": "",
+      "text": "We became acquaintances who'd chat whenever we passed each other at the academy. Then one day."
+    },
+    {
+      "name": "",
+      "text": "Led by Mihono Bourbon, several Umamusume were doing joint hill training."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "First hill dash completed. Next, starting the second one."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Huff, puff... y-you're going again already!? I can't...!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Yikes, this is tough~!"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Im...possible...! Haaah~...! ...Ugh, I thought I'd built up a fair amount of stamina, though."
+    },
+    {
+      "name": "",
+      "text": "The Umamusume are dejected. Amidst this, Matikanetannhauser continues climbing the second uphill path, albeit belatedly."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Haa, haa, fuu, haa!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Third set, add 200m. ...Hmph!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "W-wait for me~!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Fuu, haa, haaah~... Ahh, I couldn't finish the third set~. Bourbon-san, you're really amazing after all—whoa!"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Are you okay?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ahaha, I'm fine, I'm fine! My legs are just a little wobbly. ...I guess I still have a long way to go~."
+    },
+    {
+      "name": "Umamusume B",
+      "text": "No way, you kept up until about the last 300m. That's plenty amazing."
+    },
+    {
+      "name": "",
+      "text": "Mihono Bourbon's hard training is top-tier even within the academy. In fact, most Umamusume had given up after the first set—",
+      "choice_data_list": [
+        "(She's not the flashy type, but she has solid ability)"
+      ]
+    },
+    {
+      "name": "",
+      "text": "A few days after that incident."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Haa, haa, haa...!"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Hey, haven't Rice-san and the others been at it for over two hours? Interval running, right...? They're both incredible."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Keep up, keep up, keep up, up...! Taaah, I've hit my physical limit...!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Haa, haa, haaah~... No good~! I was pretty confident in my stamina, though."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "No way, that's plenty amazing. Nice fight, Machitan."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Oh, stop it~. Thank you... —Oh! You're the one from the other day."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "You saw me in a pathetic state, huh~. I wanted to keep up until the end, though. Ehehe."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "But, but, I feel like I've grasped some tips for long distances too, yeah. It was good training! Let me jot this down before I forget..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Maybe I should try increasing my stamina a bit more. I also want to practice a form with less air resistance... Hmm."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "That's right, Trainer-san! Um, could I get a little advice, maybe?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "My goal this month is 'I'm going to build up my stamina!', so I want to train a lot of slow-twitch muscles!"
+    },
+    {
+      "name": "",
+      "text": "Looking at the notebook handed over... it had a fairly hardcore self-training plan, neatly divided by day.",
+      "choice_data_list": [
+        "Wow, impressive!"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Hehe. Thank you~."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Um, I'm still not skilled enough to compete with the top, and I'm not the type who can do reckless training either."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "So, I'm doing it with the mindset of taking things step by step from what I can do~. I think if I keep at it, I'll definitely be able to win someday!",
+      "choice_data_list": [
+        "!"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Surprisingly positive, hardworking, and with solid fundamentals. Just from watching her a bit over the past few days, her nature was clear enough."
+    },
+    {
+      "name": "",
+      "text": "She's definitely not the flashy type. But depending on her future growth, she seems like she could really blossom."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "? Is something wrong?",
+      "choice_data_list": [
+        "Will you make a contract with me?",
+        "Will you make a contract with me?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "A contract? ...Oh, could it be an offer!?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Wow~! Of course! If it's you, my half-and-half friend, you're welcome-welcome! I look forward to working with you from now on!"
+    },
+    {
+      "name": "",
+      "text": "And so, the days with Matikanetannhauser—'ordinary' but a little strange—began."
+    }
+  ]
+}

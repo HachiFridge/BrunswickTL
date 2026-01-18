@@ -1,0 +1,334 @@
+{
+  "title": "初詣",
+  "no_wrap": false,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "The year has finally arrived—\nStay Gold's senior year—"
+    },
+    {
+      "name": "",
+      "text": "...It's rare for Stay Gold to invite me, saying,\n'Want to go for the first shrine visit of the year?'\nSo I went out with her during the night, but—",
+      "choice_data_list": [
+        "(We've come quite far again, huh...)"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Haa...\nThe air is clear, feels nice...",
+      "choice_data_list": [
+        "So, what kind of place are we going to today?",
+        "So, what kind of place are we going to today?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "I'm not really sure either.",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Somewhere deep in these mountains,\nthere's supposedly a legendary shrine."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Wouldn't it be fun if we could visit it?",
+      "choice_data_list": [
+        "Well, that's true, but—"
+      ]
+    },
+    {
+      "name": "",
+      "text": "It does feel like there's too little information.\nLooks like from the start of the year,\nwe're in for a bit of an adventure...!"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "What's the big deal? If we don't find it,\nwe can just say we visited a beautiful sunrise.\nLet's go check it out for now."
+    },
+    {
+      "name": "",
+      "text": "And so, as we entered the mountain path,\nand the sun began to rise a bit—"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "...Hmm. The fog is really thick.",
+      "choice_data_list": [
+        "My phone's out of service too. I can't tell where we are..."
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Well, let's aim for a place with a good view.\nThat way, we might figure something out."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Since the fog is thick, don't wander off.\nIf we get separated, that would be bad.",
+      "choice_data_list": [
+        "Got it...!"
+      ]
+    },
+    {
+      "name": "",
+      "text": "And so, with Stay Gold,\nwe carefully advanced through the foggy forest—"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "...Alright, the fog is clearing up—"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "This place is...—"
+    },
+    {
+      "name": "",
+      "text": "We came out into an open area... but it's strangely quiet.\nAnd for some reason, I feel like straightening my back.",
+      "choice_data_list": [
+        "Is this the legendary shrine...?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "........No. It seems different.\nThis feeling is—"
+    },
+    {
+      "name": "???",
+      "text": "————Normally, this place is off-limits."
+    },
+    {
+      "name": "Elderly Umamusume in Kimono",
+      "text": "However, occasionally, people like you\nare drawn here by fate and appear..."
+    },
+    {
+      "name": "Elderly Umamusume in Kimono",
+      "text": "...I suppose I should say, welcome."
+    },
+    {
+      "name": "",
+      "text": "...I wonder how long she's been there? An elderly Umamusume in a kimono was standing there. Her dignified presence makes me strangely tense..."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "My apologies. I didn't know this was a restricted area. ...Should I leave right away?"
+    },
+    {
+      "name": "Elderly Umamusume in Kimono",
+      "text": "No, that won't be necessary. This must be fate of some kind. It would be good to offer a prayer.",
+      "choice_data_list": [
+        "Um... what should I pray for?"
+      ]
+    },
+    {
+      "name": "Elderly Umamusume in Kimono",
+      "text": "For example, about the journey ahead.",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "...Trainer. Let's take her up on her offer and say a prayer, shall we?"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "You don't get to experience a first shrine visit like this very often.",
+      "choice_data_list": [
+        "That's... probably true, but—"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Now, what should I pray for...—"
+    },
+    {
+      "name": "",
+      "text": "...Following Stay Gold's lead, I calmly try praying about my own journey ahead as well. What comes to mind first is—",
+      "choice_data_list": [
+        "A strong body that never stops moving forward",
+        "The strength and skill to overcome hardships",
+        "A mindset to enjoy everything"
+      ]
+    },
+    {
+      "name": "",
+      "text": "...So that I can continue traveling this path without interruption."
+    },
+    {
+      "name": "",
+      "text": "I prayed fervently that Stay Gold's body would remain healthy and strong."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "...Haha. That's quite a thorough prayer.",
+      "choice_data_list": [
+        "Stego, what did you pray for?",
+        "Stego, what did you pray for?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "It's a secret."
+    },
+    {
+      "name": "",
+      "text": "...So that no matter what hardships lie ahead, she can overcome them."
+    },
+    {
+      "name": "",
+      "text": "I wished for Stay Gold to grow stronger and for myself to be able to help her grow."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "...Haha. That's quite a thorough prayer.",
+      "choice_data_list": [
+        "Stego, what did you pray for?",
+        "Stego, what did you pray for?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "It's a secret."
+    },
+    {
+      "name": "",
+      "text": "...So that no matter what happens, Stay Gold can enjoy it."
+    },
+    {
+      "name": "",
+      "text": "I prayed that her golden mindset would never change and that I could remain that way too."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "...Haha. That's quite a thorough prayer.",
+      "choice_data_list": [
+        "Stego, what did you pray for?",
+        "Stego, what did you pray for?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "It's a secret."
+    },
+    {
+      "name": "Elder Umamusume in Kimono",
+      "text": "...Umamusume, you there. May I ask your name?"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "...Stay Gold."
+    },
+    {
+      "name": "Elder Umamusume in Kimono",
+      "text": "Stay Gold-san. ...It seems you are connected to many fates."
+    },
+    {
+      "name": "Elder Umamusume in Kimono",
+      "text": "And now, those fates have formed a great vortex, turning into chaos."
+    },
+    {
+      "name": "Elder Umamusume in Kimono",
+      "text": "――――To the point of disrupting the order of the world."
+    },
+    {
+      "name": "Elder Umamusume in Kimono",
+      "text": "...Out of an old woman's concern, let me ask you this."
+    },
+    {
+      "name": "Elder Umamusume in Kimono",
+      "text": "Do you intend to continue on like this?"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "...Yeah. I plan to go on enjoying it."
+    },
+    {
+      "name": "Elder Umamusume in Kimono",
+      "text": "……………………I see."
+    },
+    {
+      "name": "Elder Umamusume in Kimono",
+      "text": "...If you wish to return, walk straight in that direction. You should be able to descend to the foot of the mountain.",
+      "choice_data_list": [
+        "Th-thank you very much."
+      ]
+    },
+    {
+      "name": "Elder Umamusume in Kimono",
+      "text": "May you have a good journey. May fortune be with the fates that revolve――"
+    },
+    {
+      "name": "",
+      "text": "The next moment, a fierce wind blew so strong I couldn't keep my eyes open...!"
+    },
+    {
+      "name": "",
+      "text": "I covered my face with my arms to endure the wind, and when I felt it subside and opened my eyes――"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "...She's gone.",
+      "choice_data_list": [
+        "She disappeared...!?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "...Well, that's common in the mountains. Better not think too deeply about it."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Alright, let's head back as she said. Making too much noise wouldn't be good for this place.",
+      "choice_data_list": [
+        "...Y-yeah.",
+        "...Y-yeah."
+      ]
+    },
+    {
+      "name": "",
+      "text": "After that, we entered the foggy forest again and walked straight in the direction the elder Umamusume indicated――"
+    },
+    {
+      "name": "",
+      "text": "――How long did we walk? Before I knew it, we had passed through the forest and descended to the foot of the mountain..."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Phew, we made it back, we made it back.",
+      "choice_data_list": [
+        "What in the world was that place...?"
+      ]
+    },
+    {
+      "name": "",
+      "text": "And also, who was that elder Umamusume――"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Who knows. Well, but I'm sure it was worth praying there."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "For today, that should be fine, right? We got to have an interesting experience too.",
+      "choice_data_list": [
+        "Well... I guess that's true",
+        "Well... I guess that's true"
+      ]
+    },
+    {
+      "name": "",
+      "text": "...Since meeting Stay Gold, I secretly realize there's a part of me that quickly adapts to strange things."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Ah~, but I'm hungry~. Let's eat something nearby.",
+      "choice_data_list": [
+        "I wonder if there's a place to eat around here..."
+      ]
+    },
+    {
+      "name": "",
+      "text": "...In the end, after that, we ended up wandering around with Stay Gold for a while longer, looking for a place to eat——"
+    }
+  ]
+}

@@ -49,4 +49,5 @@ Character System Text
 ID Group 50 (Career Dialgoue)
 | ID   | Name | Done | Total | Status |
 |------|------|---|----|-------------|
+| 1062 | Matikanetannhuser | 10 | 160 | In Progress | 
 | 1135 | Stay Gold | 2 | 104 | In Progress |

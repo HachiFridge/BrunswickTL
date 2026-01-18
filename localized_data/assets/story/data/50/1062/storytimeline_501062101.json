@@ -1,0 +1,339 @@
+{
+  "title": "新年の抱負",
+  "no_wrap": false,
+  "text_block_list": [
+    {
+      "name": "Matikanetannhauser",
+      "text": "Happy New Year!"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Congrats!"
+    },
+    {
+      "name": "Nature & Ikuno",
+      "text": "Congratulations.\nCongratulations."
+    },
+    {
+      "name": "",
+      "text": "New Year's. Matikanetannhauser brought her friends to the trainer's room to hang out."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Actually, we all made mochi, so I thought we'd share some with you, Trainer!",
+      "choice_data_list": [
+        "Thanks for going out of your way"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "No problem~. And... I'm pretty sure you have that thing here, right?",
+      "choice_data_list": [
+        "That thing?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "\nYeah, the kotatsu!"
+    },
+    {
+      "name": "",
+      "text": "So, to quickly warm up the Umamusume who got their hands and feet cold, we invited all four of them in."
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Look, Nature, a snail!!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Hey, don't play with it. ...But still, the kotatsu really is the best~. It's so soothing."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Right! New Year's is all about the kotatsu, mochi, and mikan~."
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Tannhauser-san, shouldn't you show Trainer that thing you mentioned earlier?",
+      "choice_data_list": [
+        "That thing?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Oh, right! Trainer, look at this. This month's 'Monthly Twinkle'!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ta-da!\nMy name is in here~!"
+    },
+    {
+      "name": "",
+      "text": "Where she pointed, there it was, small but definitely 'Matikanetannhauser'!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "It's in a little feature on newcomers to watch, saying, 'It was a race where you could feel she might do something, that kind of vibe,' see!"
+    },
+    {
+      "name": "",
+      "text": "Since it's a good opportunity, I leaned in to read it properly, and upon closer look—",
+      "choice_data_list": [
+        "!"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Right in the middle of that page, in much larger text, were the words 'Mihono Bourbon' and 'Top Contender for Triple Crown Umamusume.'"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "...The expectations for her aren't new, but... I see. To this extent."
+    },
+    {
+      "name": "",
+      "text": "The size of the text reflects the level of attention. This must be the current public opinion. It's the kind of expression that would bother someone who cares about it.",
+      "choice_data_list": [
+        "But, Tannhauser..."
+      ]
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "That's right, Tannhauser-san is--"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Oh, right, Bourbon-san too!\nBeing the top candidate for the Triple Crown Umamusume is amazing, isn't it~!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "It's true she works hard every day, so I can understand the expectations.\nGoing back and forth on the hill course every day..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Wow, I need to work hard too!\nAim for the Triple Crown Umamusume!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...Huh, sorry, we were talking about something, right?",
+      "choice_data_list": [
+        "No, it's nothing important"
+      ]
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Hehe. I'll be cheering for you from the sidelines too.\nPlease do your best this year, just like yourself."
+    },
+    {
+      "name": "",
+      "text": "A few hours later."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "The 1st!\nHeart-pounding, New Year's Luck Test Tournament~!"
+    },
+    {
+      "name": "",
+      "text": "After this and that,\nwe all decided to play New Year's games."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Now then, there are three events!\n'Stick with It, Kendama Showdown!'\nThe first one to pull off a 'World Tour' wins!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "'Run, Run, Kite-Flying Showdown!'\nThe one whose kite flies the highest wins!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "And, if you can make the face, you win!\n'Laugh and You Lose, Fukuwarai Showdown!'"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Which one should we do first!\nThis is up to the room's master... the Trainer!"
+    },
+    {
+      "name": "",
+      "text": "Somehow, the one I want to try first is--",
+      "choice_data_list": [
+        "Run, Run, Kite-Flying Showdown!",
+        "Stick with It, Kendama Showdown!",
+        "Laugh and You Lose, Fukuwarai Showdown!"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Good choice!\nActually, I've also picked out a nice open space!\nYes, its name is--"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "The Underpass!"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "It's true, here there are no people and no power lines in sight."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ahem! Then, let the match begin!\nThe judge is the Trainer!"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Turbo engine, full throttle--!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Whoa, that's high!\nTurbo's got skills!"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Heheh!\nTurbo can go even faster! Hiyah!"
+    },
+    {
+      "name": "",
+      "text": "(Snap)"
+    },
+    {
+      "name": "",
+      "text": "Couldn't withstand the acceleration...\nThe kite string snapped, and it vanished from sight in an instant."
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Aaaah!\nTurbo's kite...!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Oh dear.\nThat's... far away."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "But in terms of height, Turbo wins?"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Indeed, that's true.\nIf it's not disqualified.",
+      "choice_data_list": [
+        "...Turbo's victory!"
+      ]
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Victory!?\nAmazing amazing, yay!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ehehe, that's great~."
+    },
+    {
+      "name": "",
+      "text": "And so, the Twinkle Series\nYear 2 began."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Oh, nice~!\nI actually practiced a little bit!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "'Around the World' involves moving the ball in order: small dish, large dish, medium dish, and then the sword!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "So then~...\nReady, start!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Huff, puff... whew~!"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Aaaah!\nI was so close!"
+    },
+    {
+      "name": "",
+      "text": "And so, the sound of wood clashing\nechoed in the trainer's room—"
+    },
+    {
+      "name": "",
+      "text": "Night fell."
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "This is... more difficult than I imagined."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "No problem, no problem, still going~!"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Grr!\nTurbo can still keep going too!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ah, my hands are starting to hurt."
+    },
+    {
+      "name": "",
+      "text": "And so, the second year of the Twinkle Series began."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Great! Actually, I brought a special fukuwarai with me!"
+    },
+    {
+      "name": "",
+      "text": "What she pulled out was——"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "It's a fukuwarai I made with the trainer's face~!",
+      "choice_data_list": [
+        "!?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ehehe, I'm the one who sees the trainer's face the most! I thought I couldn't lose with this!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "No, rather, I can't afford to lose! Let's do this properly!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Hmm, this is... the mouth?"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Kufufufu, Machitan's got it wrong!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Huh!? It's not!?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Turbo, shh!"
+    },
+    {
+      "name": "",
+      "text": "And so, what ended up being made was——"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Nose position, accurate. Mouth position, inaccurate. Therefore——75 points!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Nguu!! Not 100 points~!!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "I'm sorry, trainer! How could I have...!"
+    },
+    {
+      "name": "",
+      "text": "And so, the second year of the Twinkle Series began."
+    }
+  ]
+}

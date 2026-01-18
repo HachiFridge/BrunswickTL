@@ -1,0 +1,215 @@
+{
+  "title": "初詣",
+  "no_wrap": false,
+  "text_block_list": [
+    {
+      "name": "Twin Turbo",
+      "text": "I'll win 'em all!!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "I'll do it my way!\nIn everything!"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "I'll give it my all without neglecting my health."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Mmmmuuuuuu...!"
+    },
+    {
+      "name": "",
+      "text": "(Crash!)"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Bweeeeee!?\nThe bell fell!"
+    },
+    {
+      "name": "",
+      "text": "This year too, I spent a lively New Year's with Matikanetannhauser and her friends."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Sniff, sniff sniff...\nHmm, I think it's okay!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Still, that was a shock~\nI wonder if my wish got through properly?"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Machitan, what did you wish for?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Well, since I'm finally in the senior class this year, I wished to do even better!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Especially this year, there are so many amazing girls. If you space out, you'll get tripped up left and right."
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "McQueen-san, aiming for her third consecutive Tenno Sho (Spring) win.\nPalmer-san, who's been making waves in various G1 races."
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "And Flower-san is also one to watch.\nHer performance in the sprint division has been splendid."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "The girls said to be coming out on the classic front this year are supposed to be amazing too."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Hayahide-san, Ticket-san, Taishin-san.\nAhh, I'm looking forward to it~."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "'Looking forward to it,' huh. Same as always."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Speaking of which, Tannhauser, do you have any goals or something like that for this year?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Other than winning everything!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Huh?\nWell, umm, let's see..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...I do, but it's embarrassing, so it's a secret."
+    },
+    {
+      "name": "",
+      "text": "And that evening.\nI was called to stop as we were parting ways."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Trainer, trainer!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Um, there's something I want to tell only you, trainer.",
+      "choice_data_list": [
+        "What is it?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Well, it's about my goal.\n...This year, I want to try finding myself.",
+      "choice_data_list": [
+        "F-finding yourself?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Yes!\nWhat the chairman said at the summer training camp—"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "The words 'because it's you,'\nI still don't really get them."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Because it's me... what?\nIt's making me feel all fuzzy!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Probably, I don't really\nunderstand myself well, huh.",
+      "choice_data_list": [
+        "I see"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "I want to live up to the chairman's expectations,\nand to do that, I think I have to understand!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "So, yeah!\nThis year, I'll do 'finding myself' too!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Alright, so let's do our best!\nFor the first thing of the new year, what should we do?"
+    },
+    {
+      "name": "",
+      "text": "As for training fitting for today—",
+      "choice_data_list": [
+        "First, let's conserve our stamina!",
+        "Since it's a special occasion, the full course!",
+        "New Year's, enemy reconnaissance!"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Huh—!?\nOn the first day!?",
+      "choice_data_list": [
+        "Let's conserve today"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "So that means, starting tomorrow, we'll go all out...!?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "I see, so you're fully motivated...!\nThen today, I'll conserve stamina without holding back!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Alright... I'm going to sleep!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...Zzz... zzz..."
+    },
+    {
+      "name": "",
+      "text": "And so, the first training of the new year\nbegan peacefully."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Full course! That means, going back and forth between the grounds,\nthe indoor gym, and the pool...!?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Looks fun!\nWhich one should we do first? I can't decide!?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "I know, let's make a lottery draw!\nIt's our first test of luck for the new year!"
+    },
+    {
+      "name": "",
+      "text": "And so, the first training session of the new year began peacefully."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Whoa...!\nEnemy reconnaissance!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "So that means, grab a tree branch and head to the grounds, right!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...Oh yeah, while we're at it,\nshould we dress up as ninjas too?"
+    },
+    {
+      "name": "",
+      "text": "And so, the first training session of the new year began peacefully."
+    },
+    {
+      "name": "",
+      "text": "The senior class is full of tough opponents.\nI want to give it my all and race through it!"
+    }
+  ]
+}

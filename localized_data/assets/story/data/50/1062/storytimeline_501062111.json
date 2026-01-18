@@ -1,0 +1,265 @@
+{
+  "title": "もぐもぐ、ガタゴト、主人公",
+  "no_wrap": false,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Three years after starting to challenge the Twinkle Series, one afternoon when things had finally settled down."
+    },
+    {
+      "name": "Woman A",
+      "text": "'Because she's an ordinary girl, seeing her win really gave me courage!'"
+    },
+    {
+      "name": "News Caster",
+      "text": "'Matikanetannhauser's victory in the Arima Kinen gave courage to many people—'"
+    },
+    {
+      "name": "",
+      "text": "While watching the news, Matikanetannhauser came to visit."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Want to go to my hometown with me?",
+      "choice_data_list": [
+        "Sure, but why all of a sudden?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Hehe, we got to talking about having a picnic with my parents."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "And since they said they'd treat us, I thought you could come along too, Trainer!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Um, we're supposed to meet around here...?"
+    },
+    {
+      "name": "Tannhauser's Mother",
+      "text": "Ah, there you are, Tannhauser~!"
+    },
+    {
+      "name": "",
+      "text": "A couple carrying a large tiered box came toward us, waving their hands."
+    },
+    {
+      "name": "Tannhauser's Father",
+      "text": "Sorry we're late, we got caught up preparing. Thanks for always taking care of our daughter~."
+    },
+    {
+      "name": "Tannhauser's Mother",
+      "text": "Fufu, she said she was bringing someone important, so I got all flustered."
+    },
+    {
+      "name": "Tannhauser's Mother",
+      "text": "We both put our hearts into it, so please enjoy yourselves today.",
+      "choice_data_list": [
+        "Yes, thank you very much."
+      ]
+    },
+    {
+      "name": "Tannhauser's Mother",
+      "text": "...But still, I can't believe it!"
+    },
+    {
+      "name": "Tannhauser's Mother",
+      "text": "To think such an honest-looking person was her boyfriend! You're not bad, Tannhauser!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "W-wait, he's not my boyfriend!? Trainer!"
+    },
+    {
+      "name": "Tannhauser's Mother",
+      "text": "...Oh, oops, is that how it is!?"
+    },
+    {
+      "name": "",
+      "text": "Anyway, we decided to move to find a suitable spot."
+    },
+    {
+      "name": "Tannhauser's Father",
+      "text": "I thought we'd cook something like shark fin soup since it's a special occasion, but I couldn't get the flavor right. Sorry it's just ordinary dishes."
+    },
+    {
+      "name": "",
+      "text": "The tiered box they laid out... was of such quality that all you could say was 'impressive'...!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Whaa...! Trainer!\nThis is amazing!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Hamburg steak, fried shrimp,\nsimmered dishes, rolled sushi, rolled omelet...!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "They're all super popular side dishes at the shop~!\nThank you, Dad, Mom!",
+      "choice_data_list": [
+        "Let's eat!"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Each and every one was a masterpiece beyond imagination...\nI felt like I understood a little where her high-level 'normal' comes from."
+    },
+    {
+      "name": "Tannhauser's Mother",
+      "text": "But really, this kid has always been weak\nwhen it really counts."
+    },
+    {
+      "name": "Tannhauser's Mother",
+      "text": "When she was selected for the school vs. school Umamusume relay,\nshe overdid her solo training,\ngot sick, and ran a high fever on the day of the event."
+    },
+    {
+      "name": "Tannhauser's Father",
+      "text": "When she tried to make a feast for Labor Thanksgiving Day,\nshe made too many test dishes\nand ran out of allowance."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ah, don't talk about the past so much~!"
+    },
+    {
+      "name": "Tannhauser's Mother",
+      "text": "But you know, that's why the 'Arima Kinen' was...\nso good, wasn't it?"
+    },
+    {
+      "name": "Tannhauser's Mother",
+      "text": "She won decisively,\nand the whole venue erupted in cheers, right...!"
+    },
+    {
+      "name": "Tannhauser's Father",
+      "text": "Yeah. We both cried.\nYou did great, Tannhauser."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Dad, Mom..."
+    },
+    {
+      "name": "Tannhauser's Father",
+      "text": "Thank you too, Trainer.\nFor supporting this kid all the way to such a big stage."
+    },
+    {
+      "name": "Tannhauser's Father",
+      "text": "She's not a kid with flashy brilliance.\nBut to us, she's a special treasure..."
+    },
+    {
+      "name": "Tannhauser's Mother",
+      "text": "Seeing this kid shine brighter than anyone\nand become known as everyone's courage,\nI'm so happy...!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Dad, Mom...!"
+    },
+    {
+      "name": "Tannhauser's Mother",
+      "text": "Eat a lot today!\nSniff...!"
+    },
+    {
+      "name": "",
+      "text": "The three of them picking at the bento boxes while crying...\nIt became a moment where I felt the deep love from her parents."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Phew, I'm full...!\nThat was delicious~."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "But still, I never thought\nI'd cry that much.",
+      "choice_data_list": [
+        "I thought you were just emotional"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "No, no, I'm usually normal! It's rare for me to get emotional telling stories from the past."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "But I was so happy! I can't believe those two were that delighted for me."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...Really, thank you, Trainer.",
+      "choice_data_list": [
+        "It's your own hard work",
+        "It's your own hard work"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Nah, I couldn't have done it alone~. Ahaha."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "You patiently watched over me, even when I'd mess up at crucial moments."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "And it was you, Trainer, who helped me dig out and understand the most important feelings inside me."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "You gave me the strength to move forward. So... yeah, that's right."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Maybe for these three years, the 'protagonist' inside me has been you, Trainer."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...Just kidding."
+    },
+    {
+      "name": "",
+      "text": "And Matikanetannhauser's expression turned somewhat solemn."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Um. I think I'll probably keep messing up from here on out too. Like catching a cold at the worst possible time."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "But still, I feel like you're the only one for me, so that's why—"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Even though I'm like this, will you keep walking forward with me from now on?",
+      "choice_data_list": [
+        "Of course"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ehe, I'm glad..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Well then, please take care of me, Trainer."
+    },
+    {
+      "name": "",
+      "text": "With a slightly more bashful expression than usual, she gave a small bow."
+    },
+    {
+      "name": "Conductor",
+      "text": "'Doors closing. Next stop is—...'"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...Ahh, I missed my stop!"
+    },
+    {
+      "name": "",
+      "text": "The days with her—'normal,' hardworking, and a little bit unreliable—are far from over."
+    }
+  ]
+}

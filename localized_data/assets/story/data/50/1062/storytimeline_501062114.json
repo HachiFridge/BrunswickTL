@@ -1,0 +1,290 @@
+{
+  "title": "それでも、夢見て、1等賞！",
+  "no_wrap": false,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "After the 'Satsuki Sho' and heading towards the 'Japanese Derby', days continued with unusually solid training being carried out."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Huff, ha, haa~...!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "So tough~!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Yah, my form was all messed up in the latter half. I guess my stamina is totally lacking after all."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Can we increase stamina-based training? Even in self-training, I gotta run more..."
+    },
+    {
+      "name": "",
+      "text": "Saying that, the memo pad spread out had training menus densely written all over it.",
+      "choice_data_list": [
+        "You're really fired up",
+        "You're really fired up"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Nah, everyone does about this much. I gotta work even harder, if anything."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "The 'Japanese Derby' is a once-in-a-lifetime event. I want to perfect it!"
+    },
+    {
+      "name": "",
+      "text": "One such day, multiple reporters had come to interview Mihono Bourbon."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Bourbon-san, there's been a lot lately. She's getting sharper and sharper, so that makes sense."
+    },
+    {
+      "name": "Round-glasses reporter",
+      "text": "Today, I absolutely have to get a good story from Bourbon-san..."
+    },
+    {
+      "name": "Round-glasses reporter",
+      "text": "...I wish I could write an interesting article too. But this time will surely... Sigh..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...? What's going on? Reporters have it tough too, huh?"
+    },
+    {
+      "name": "Round-glasses reporter",
+      "text": "I, I see...! There's an Umamusume you're concerned about for the 'Japanese Derby'!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Yes. She's usually a reserved and quiet type, but I caught a 'fierceness' in the 'Satsuki Sho'."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Since then, her rapid growth has been confirmed from her training appearances as well."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "In other words, I judge she could become a 'strong rival' in the 'Japanese Derby'."
+    },
+    {
+      "name": "Round-glasses reporter",
+      "text": "Th-thank you! Um, and then...!"
+    },
+    {
+      "name": "Reporter A",
+      "text": "Excuse me! What's that Umamusume's name?"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "It's 'Rice Shower'."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "No way... I can't believe Bourbon-san was also conscious of Rice-san...!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Oh, come to think of it, I actually interviewed Rice-san the other day!",
+      "choice_data_list": [
+        "An interview?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Yes, I happened to run into Rice-san while she was out for a walk, but—"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ah, Rice-san! What a coincidence~. Good luck in the next Derby!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Y-you too...!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...Huh? Wait, isn't the sole of your shoe coming off? Are you okay?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ah, you're right...! Maybe I ran too much, I need to change them."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Until your shoes are worn out! That's amazing, you're working so hard...!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Come to think of it, in the 'Satsuki Sho' too, your fighting spirit was practically buzzing through! The race was incredible too—"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "R-really? I still feel like I can't catch up..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Catch up... Oh, you mean Bourbon-san?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Huh!? How did you know about that...!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Well, actually, in the underground passage at the 'Satsuki Sho'—"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Y-you saw me... I see..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Sorry for peeking! But your feelings, Rice-san, were so passionate, it made me want to cheer you on!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "And I understand that feeling of admiration for Bourbon-san too!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "When Bourbon-san runs, the stands light up~! It's so cool!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "R-really...!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Bourbon-san is strong, cool, and can make everyone smile so much... she's an amazing Umamusume!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "So, someday, someday... I want to be an Umamusume like Bourbon-san."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "I... I hope I can become like that...!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "I happened to overhear that conversation~!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "I think it's wonderful how Bourbon-san can inspire such feelings, and how Rice-san can grow stronger because of Bourbon-san's existence~!"
+    },
+    {
+      "name": "Round-Glasses Reporter",
+      "text": "Um, about that story..."
+    },
+    {
+      "name": "Reporter A",
+      "text": "Excuse me, could we hear more details about that story!?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Whoa!? O-of course!"
+    },
+    {
+      "name": "Reporter A",
+      "text": "I never imagined she held such feelings...! This could make for an eye-catching article!"
+    },
+    {
+      "name": "Reporter B",
+      "text": "That's right, it might be good to ask a pundit about who will win."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Hmm... 'Who will'?"
+    },
+    {
+      "name": "Reporter B",
+      "text": "Actually, we were told from above that the other girls can be treated as supporting characters... Because the article will be read for Mihono Bourbon's sake."
+    },
+    {
+      "name": "",
+      "text": "It seems that in their focus on work, they haven't realized that the Umamusume in front of them is also a runner in the 'Japanese Derby'.",
+      "choice_data_list": [
+        "(As her trainer, I can't stay silent--)"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Wait a minute, please!",
+      "choice_data_list": [
+        "!"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "I understand that Bourbon-san and Rice-san's greatness might overshadow the other runners!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "And I get that what's being asked for is that too--"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "But, you know, the possibility of another girl winning isn't zero at all, right?"
+    },
+    {
+      "name": "Reporter B",
+      "text": "...? Huh, ah!! Matikanetannhauser! -san...!"
+    },
+    {
+      "name": "Reporter A",
+      "text": "S-s-sorry! I didn't notice...!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "No, no, it's fine! Because I'm plain and ordinary! I'm not special at all!"
+    },
+    {
+      "name": "Round-Glasses Reporter",
+      "text": "...!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "But, but but...\nThe talk about the possibility of winning is a different matter."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Because, I don't want anything but first place either!"
+    },
+    {
+      "name": "",
+      "text": "Her gentle demeanor was the same as usual, but her words carried a definite heat."
+    },
+    {
+      "name": "",
+      "text": "A few hours later. The round-glasses reporter was spotted looking somewhat moved."
+    },
+    {
+      "name": "Round-glasses reporter",
+      "text": "...I see, even if it's not 'special'..."
+    },
+    {
+      "name": "Round-glasses reporter",
+      "text": "Even if it's not 'special,' 'wanting to win'...\nThat's fine...",
+      "choice_data_list": [
+        "(...?)"
+      ]
+    },
+    {
+      "name": "",
+      "text": "The 'Japanese Derby' is just around the corner."
+    }
+  ]
+}

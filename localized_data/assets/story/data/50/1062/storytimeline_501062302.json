@@ -1,0 +1,308 @@
+{
+  "title": "福引チャンス！",
+  "no_wrap": false,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "One day, while passing near the shopping district——"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "There's a crowd of people, huh?\nI wonder what's going on."
+    },
+    {
+      "name": "Shopping District Person",
+      "text": "Come on, come on, the New Year's Lucky Draw Festival is underway!\nThe grand prize is nothing less than a 'Hot Spring Travel Voucher'!"
+    },
+    {
+      "name": "Shopping District Person",
+      "text": "First prize is 'Premium Carrot Hamburger Steak'\nSecond prize is 'Mountain of Carrots'\nThird prize is 'One Carrot'!"
+    },
+    {
+      "name": "Shopping District Person",
+      "text": "Come on, it's a fun, fun lucky draw!\nAnyone is welcome~!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Wow, a hot spring travel voucher~!\nThat sounds great.",
+      "choice_data_list": [
+        "Wanna give it a try?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "I think I'll give it a shot!\nUm, excuse me, I'd like to do one lucky draw!"
+    },
+    {
+      "name": "Shopping District Person",
+      "text": "Okay, here's one lucky draw ticket then!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ah, right. A lucky draw ticket...!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Whoa, wait a moment, please,\nI'll go do some shopping~!"
+    },
+    {
+      "name": "",
+      "text": "After that, Matikanetannhauser hurriedly obtained a lucky draw ticket.\nOnce again, she pulled the lever of the lucky draw machine!"
+    },
+    {
+      "name": "",
+      "text": "And the result was——"
+    },
+    {
+      "name": "Shopping District Person",
+      "text": "Incredible! Congratulations!!\nThe grand prize 'Hot Spring Travel Voucher' has been drawn~~~~!!"
+    },
+    {
+      "name": "",
+      "text": "Obtained '<itemname>'"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Whaaaaaat!?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Whoa, whoa, I did it, I did it,\nI actually did it, Trainer!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Wow, I'm so happy~!!",
+      "choice_data_list": [
+        "Congratulations!"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Hehe,\nSo, when should we go!?",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "It's a hot spring trip~. Things are a bit busy now, so\nmaybe after things calm down a bit, huh?"
+    },
+    {
+      "name": "",
+      "text": "Now that you mention it, it's a pair ticket.\nBut still——",
+      "choice_data_list": [
+        "Is it okay if I'm the pair?",
+        "Is it okay if I'm the pair?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Huh? Yes."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...Um, is it weird to invite the trainer...?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Well, I thought the partner for something like this would probably be the trainer."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "They're the person I rely on the most, like a partner, or, um..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...If you don't want to, that's fine.",
+      "choice_data_list": [
+        "No way I'd hate it!"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "! Really!?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Wow, yay, yay! Then let's plan it out again properly!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Hehe, I'm looking forward to it~. The trainer and a steamy hot spring mystery—",
+      "choice_data_list": [
+        "...Mystery?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ah! No, no, I just said a set phrase and my mouth ran away with it!"
+    },
+    {
+      "name": "",
+      "text": "Anyway, I've got one more fun plan to look forward to!"
+    },
+    {
+      "name": "Shopping District Person",
+      "text": "Congratulations, first prize~! The prize is 'Premium Carrot Hamburger Steak'!"
+    },
+    {
+      "name": "",
+      "text": "Acquired '<itemname>'"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ooh~! First prize!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "We missed out on the hot spring trip, but this looks super delicious~!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Hey, since we have it, want to eat it together? Like for dinner tonight!",
+      "choice_data_list": [
+        "If you're okay with it",
+        "If you're okay with it"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Of course~. Hey, since we're at it, I'll make some side dishes!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "So... is it okay if I go to the supermarket for a bit?"
+    },
+    {
+      "name": "",
+      "text": "And so, Matikanetannhauser prepared a delicious dinner!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "'Premium Carrot Hamburger Steak' with side salad, corn soup, and—"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Somen noodles!",
+      "choice_data_list": [
+        "Somen noodles"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Since the hamburg steak is pretty big and heavy, I think a smooth main dish would be good~!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ah, I also chopped some green onions and shiso leaves. I'll bring them over."
+    },
+    {
+      "name": "",
+      "text": "In any case, the meal they prepared was also very delicious, and we had a fun dinner time."
+    },
+    {
+      "name": "Shopping District Person",
+      "text": "Second prize~!! The prize is 'A Mountain of Carrots'!"
+    },
+    {
+      "name": "",
+      "text": "Obtained '<itemname>'"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Second prize, huh~! So close~!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "But I'm happy with this too. They all look shiny and delicious!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Oh right, since we have the chance, maybe I'll share some with everyone!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "At our family restaurant, neighbors often share vegetables with us, and I've always admired the idea of sharing back a little!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ma'am, sorry for the late hour~. We ended up harvesting a lot of carrots from our garden~."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "......"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Well, I'm happy. Thanks for going out of your way! Wait a moment, we have some potatoes too—"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "What are you doing!"
+    },
+    {
+      "name": "",
+      "text": "That day, the student dormitory seemed a little livelier than usual."
+    },
+    {
+      "name": "Shopping District Person",
+      "text": "Third prize~! The prize is 'One Carrot'!"
+    },
+    {
+      "name": "",
+      "text": "Obtained '<itemname>'"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Aww, third place! Too bad, too bad."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Well, that's just how raffles are, I guess."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Since we have it, I'd like to eat something delicious with this carrot."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...Our restaurant's kinpira is really tasty. What was the recipe again?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "I'll give them a call!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ah, hello?"
+    },
+    {
+      "name": "",
+      "text": "After that, she made the kinpira gobo that was being served at her family's diner."
+    },
+    {
+      "name": "Shopping District Person",
+      "text": "Too bad, you lost! The participation prize is 'tissue'~."
+    },
+    {
+      "name": "",
+      "text": "Obtained '<itemname>'"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Aww~! Too bad!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Even if a hot spring trip is out of the question, I thought maybe at least one carrot..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Hmm, it's a tough world, isn't it?"
+    },
+    {
+      "name": "",
+      "text": "After that, Matikanetannhauser lost a little bit of her energy."
+    }
+  ]
+}

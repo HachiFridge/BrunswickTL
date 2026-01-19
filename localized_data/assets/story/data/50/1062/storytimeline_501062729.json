@@ -1,0 +1,29 @@
+{
+  "title": "クレーンゲーム失敗……",
+  "no_wrap": false,
+  "text_block_list": [
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ah... That was close...",
+      "choice_data_list": [
+        "Sorry..."
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Whoa! Please don't worry about it!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "I know the sadness of not being able to finish when it counts all too well!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...Somehow, saying that is making me lose confidence too...\nMaybe I'll get the spider plushie next time..."
+    },
+    {
+      "name": "",
+      "text": "It ended in a disappointing result..."
+    }
+  ]
+}

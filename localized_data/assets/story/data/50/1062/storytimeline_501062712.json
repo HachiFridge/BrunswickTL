@@ -1,0 +1,38 @@
+{
+  "title": "不在の理由は……",
+  "no_wrap": false,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Matikanetannhauser isn't coming...\nJust as I was thinking that――"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "I'm sorry! I ended up being late!",
+      "choice_data_list": [
+        "What happened?",
+        "What happened?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Actually, on the way here, I ran full-force into a wall\nand got a nosebleed..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Plus, I got my jersey dirty, so\nI thought I'd wash it right away, but I was out of detergent."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Then, while searching for detergent,\nI ran into a door this time..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Things that make you want to say, \"Why now!?\"\nkept happening... I'm really sorry..."
+    },
+    {
+      "name": "",
+      "text": "Matikanetannhauser is reflecting on this,\nso I told her to be careful and ended the matter."
+    }
+  ]
+}

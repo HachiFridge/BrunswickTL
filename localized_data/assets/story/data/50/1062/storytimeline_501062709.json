@@ -1,0 +1,34 @@
+{
+  "title": "レース入着",
+  "no_wrap": false,
+  "text_block_list": [
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ugh... no victory..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Not being able to clinch it at the crucial moment is just like me... but it's frustrating.",
+      "choice_data_list": [
+        "This placing is respectable",
+        "Next time, we'll definitely win!"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ooh... such positive words! I did give it my best shot. No regrets there!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Alright, I'll train hard, pat-pat, so I can properly get first place next time!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Of course! I'm not satisfied with a placing like this either!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Next time, I'll show you I can get first place! Wait for me, everyone cheering me on!"
+    }
+  ]
+}

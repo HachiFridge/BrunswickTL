@@ -1,0 +1,146 @@
+{
+  "title": "ダンスレッスン",
+  "no_wrap": false,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "……Today is a joint dance lesson with Twin Turbo. Heading to the park, the meeting spot——"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "——Let's begin~! With Matitan~!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Turbo-sensei's~!"
+    },
+    {
+      "name": "Matitan & Turbo",
+      "text": "Explosive Speed Passion! Dance Lesson~!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Hehehe~. Nice to meet you, Turbo! By the way, why are we at the park today?"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Fufufu…… That's because there's a deep reason!"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "First…… It's spacious and easy to dance in! Plus, the sunshine feels great!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ooh~, I see! So, what kind of practice are we doing?"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "We're gonna…… step like crazy! And then…… get into the rhythm like crazy!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Got it! Then, let's step like crazy and get into the rhythm like crazy~!"
+    },
+    {
+      "name": "Matitan & Turbo",
+      "text": "Tan-tan-tatan-tan……♪"
+    },
+    {
+      "name": "",
+      "text": "……The meaning of doing this jointly is a mystery, but they seem to be having fun, so it's fine, I thought, as I quietly observed for a while——"
+    },
+    {
+      "name": "Girl A",
+      "text": "Huh~? It's Matitan-oneechan and Turbo-sensei. What are you doing~?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ah, hello. Right now, we're practicing dancing."
+    },
+    {
+      "name": "Girl B",
+      "text": "That looks fun~! Hey hey! We wanna join in too~!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Sure thing~. Then let's all dance and sing together~♪"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Ooh~, it's gotten lively! Well well, since we have the chance, let's try a new practice!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Yeah yeah. Let's do it, let's do it! But, what would be good……?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Assistant Trainer big brother! What do you think we should do here!",
+      "choice_data_list": [
+        "How about combining play and dance?",
+        "Improve dance skills through teaching!"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Assistant Trainer big sister! What do you think we should do here!",
+      "choice_data_list": [
+        "How about combining play and dance?",
+        "Improve dance skills through teaching!"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "I see! So we'll learn dance in a fun, natural way!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Alright then... everyone! Let's play step tag!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Like this, we'll just use steps to run away or chase! How about it~? Anyone wanna play~!"
+    },
+    {
+      "name": "Children",
+      "text": "Yeah, let's do it~!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Then I'll be 'it,' so everyone, make sure to keep the rhythm while you run away!"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Alright! Everyone, run away from Matitan~!"
+    },
+    {
+      "name": "",
+      "text": "And so, through playing with the children, Matikanetannhauser and the others were able to practice their dance steps to their heart's content."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Hmm, hmm... In that case, the first thing we should do is... change the lesson title!"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Matitan and~!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Turbo-sensei's~!"
+    },
+    {
+      "name": "Matitan & Turbo",
+      "text": "Exciting! Good Kids' Dance Classroom~!"
+    },
+    {
+      "name": "Children",
+      "text": "Yaaay!"
+    },
+    {
+      "name": "",
+      "text": "It ended up feeling like an educational show... but through teaching, they seemed to have learned the tricks of dance."
+    }
+  ]
+}

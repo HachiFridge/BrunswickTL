@@ -1,0 +1,137 @@
+{
+  "title": "皐月賞の後に・次は絶対！",
+  "no_wrap": false,
+  "text_block_list": [
+    {
+      "name": "Announcer",
+      "text": "First place, Mihono Bourbon—!!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Hah, hah, hah...!"
+    },
+    {
+      "name": "Spectator A",
+      "text": "Mihono Bourbon is amazing as expected!\nShe might really be able to aim for the Triple Crown!?"
+    },
+    {
+      "name": "Spectator B",
+      "text": "That was the best, Bourbon!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "—Mission complete."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "The next target is the 'Japanese Derby'.\nExecuting the plan."
+    },
+    {
+      "name": "",
+      "text": "(Whoa...!)"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "(Amazing...\nIt's like flowers bloomed all over the spectator stands!)"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...As expected, Bourbon-san."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Whew, I couldn't shake her off!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "I thought I gave it my all,\nbut it just wasn't enough."
+    },
+    {
+      "name": "",
+      "text": "Indeed, this 'Satsuki Sho' was completely dominated by Mihono Bourbon."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "As expected of the Classic Triple Crown route...\nThe rivals are all formidable, hmm..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Well, but it's from here on out, right? I missed the Triple Crown,\nbut it's not over yet."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "I got to race close to Bourbon-san,\nand I kind of figured out her quirks."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "So... it's fine!\nThere's a chance to win the 'Japanese Derby'!",
+      "choice_data_list": [
+        "That's right!",
+        "Yeah!"
+      ]
+    },
+    {
+      "name": "",
+      "text": "And then—"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "I couldn't reach...\nWith the current Rice, not at all...!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...*sob*!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...If things stay like this, nothing will change.\nBy the 'Japanese Derby',\nI need to get stronger, much, much more...!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...I have to do my best...!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...Rice-san... That was a determined gaze."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...Come to think of it, today's 'Satsuki Sho'... Bourbon-san was amazing, but Rice-san also had this—"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "A unique kind of awesomeness, you could say...! Like, whoa~, yeah~... something like that!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "The 'Japanese Derby' and 'Kikuka Sho' will probably be even more intense."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "I can't let my guard down even more. Alright, let's do our best~!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "So, Trainer! Let's go eat ramen!",
+      "choice_data_list": [
+        "Huh, why?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Because I'm hungry!"
+    },
+    {
+      "name": "",
+      "text": "After that, while slurping salt ramen at a random ramen shop we found—"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Excuse me! Extra noodles, please!"
+    },
+    {
+      "name": "",
+      "text": "We renewed our fighting spirit for the upcoming 'Japanese Derby'!"
+    }
+  ]
+}

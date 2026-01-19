@@ -1,0 +1,207 @@
+{
+  "title": "いつも、いつまでも！",
+  "no_wrap": false,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "On the way back from going out with Matikanetannhauser, she suddenly stopped in her tracks..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Whew, I really enjoyed that break to the fullest! Thank you, Trainer."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...So, do you have any plans after this?",
+      "choice_data_list": [
+        "Not really"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Really?! Then let's go to the shopping district!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Look, it's that thing. I'm inviting you on a \"hospitality\" tour!"
+    },
+    {
+      "name": "",
+      "text": "Following her lead, I ended up at the shopping district with Matikanetannhauser."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Trainer! I want to go to that shop over there!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Taiyaki, taiyaki~♪"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ah, look! It says 'Now with 30% more filling'!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Not 30% off, but 30% on! We have to buy this!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...Huh? Hmm? That's weird~."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...I might have forgotten my wallet. Ugh, my taiyaki~...!",
+      "choice_data_list": [
+        "I'll buy it for you"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Eh, really?! Yay, yay! You're more generous than the taiyaki!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ehehe, well then, I'll dig in~!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Huff huff! Munch!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...It's soooo hot!?"
+    },
+    {
+      "name": "",
+      "text": "(Thud~~~)"
+    },
+    {
+      "name": "",
+      "text": "Startled by the heat, Matikanetannhauser landed hard on her butt..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ouch ouch ouch. Phew~, that surprised me...",
+      "choice_data_list": [
+        "Let's eat somewhere calmer"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "I agree! Let's pawn to the park!"
+    },
+    {
+      "name": "",
+      "text": "……By the time we finished eating the taiyaki in the park, the sun had already set completely."
+    },
+    {
+      "name": "",
+      "text": "I wonder when Matikanetannhauser's \"hospitality\" will begin……?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Thanks for the taiyaki.\nWell then――"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Let's head back before it gets dark!",
+      "choice_data_list": [
+        "Huh!?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ahaha, you're surprised, aren't you?\nEven though it's a \"hospitality tour,\" we just walked around the shopping district normally."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "But this is my \"hospitality\"!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Because I'm just plain ordinary through and through, with nothing outstanding about me……."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "But you scouted me even though I'm like that, so I thought maybe ordinary me is the best.",
+      "choice_data_list": [
+        "That might be true"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "And also…… special days are fun, but I love the ordinary, everyday moments!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "So today, ordinary is number one for me too!\nOrdinary, ba~~nzai!",
+      "choice_data_list": [
+        "That was a wonderful hospitality that's so like you",
+        "That was a wonderful hospitality that's so like you",
+        "What an exciting kind of ordinary!",
+        "What an exciting kind of ordinary!",
+        "I hope you stay the same from now on"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "So today, ordinary is number one for me too!\nOrdinary, ba~~nzai!",
+      "choice_data_list": [
+        "That was a wonderful hospitality that's so like you",
+        "That was a wonderful hospitality that's so like you",
+        "What an exciting kind of ordinary!",
+        "What an exciting kind of ordinary!",
+        "I hope you stay the same from now on"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Wow, I can't believe you'd say that to me!\nI'm happy and surprised!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "This makes me feel like I have to provide even more amazing hospitality……."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "……But that's impossible for me, isn't it?\nAhaha~."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "So, please keep accepting ordinary me from now on!\nTrainer!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ah, I was thinking the same thing!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "When I'm with you, Trainer, even the usual things make me feel all excited."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "It's like…… ordinary things become even better ordinary things."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ehehe, let's keep getting excited together from now on!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "So today is a celebration of staying the same, huh…….\nFufufu, I feel like making a toast~."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...Ah, but there's no drink. Aww~ I did it again."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "In that case... I'll go with an air toast! Clink our fists together—"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Cheers~!"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "title": "連続出走で……",
+  "no_wrap": false,
+  "text_block_list": [
+    {
+      "name": "Matikanetannhauser",
+      "text": "Fugaga...!",
+      "choice_data_list": [
+        "Are you okay with that nosebleed...?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "I'm sorry... It doesn't look like it'll stop anytime soon..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "When I psyched myself up to do my best, it was like, 'Eiy, eiy, bubaa~'..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "I haven't bumped into anything today, so why the nosebleed...?"
+    },
+    {
+      "name": "",
+      "text": "Perhaps the fatigue has built up from running consecutive races. It might be necessary to review future plans."
+    }
+  ]
+}

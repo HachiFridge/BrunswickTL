@@ -1,0 +1,38 @@
+{
+  "title": "今度こそ負けない！",
+  "no_wrap": false,
+  "text_block_list": [
+    {
+      "name": "Matikanetannhauser",
+      "text": "Hauu~n... I lost again..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "I wanted to respond with a bang to everyone cheering for me and the trainer who trained me...",
+      "choice_data_list": [
+        "It's important to keep challenging yourself",
+        "I want you to respond in the next race"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "! ...You're right!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Even though I'm always indecisive, everyone still cheers for me!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Then I have no choice but to push forward without giving up! Alright, I'll get first place next time!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ooh...! You're already expecting the next me, Trainer!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Then I have to move forward too! I'll win next time and live up to everyone's expectations!"
+    }
+  ]
+}

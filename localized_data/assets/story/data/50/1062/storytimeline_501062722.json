@@ -1,0 +1,49 @@
+{
+  "title": "頭痛で憂鬱",
+  "no_wrap": false,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "When I was heading to the trainer's room with Matikanetannhauser——"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ugh... it hurts...",
+      "choice_data_list": [
+        "Headache?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Yes... since I woke up this morning...\nDid I do something unhealthy, I wonder..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Um... no issues with my recent sleep schedule."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "My exercise time hasn't changed much either,\nand I'm eating my meals heartily..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "——Oh, the air pressure is low today,\nso that might be the cause."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Alright! To make the weather better,\nI'll make a teru teru bozu when I get back to my room!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Teru teru teru, mun mun mu~n!\nI want warm, sunny weather~!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ouch... my head hurts from singing..."
+    },
+    {
+      "name": "",
+      "text": "Matikanetannhauser was troubled by a headache for a while."
+    }
+  ]
+}

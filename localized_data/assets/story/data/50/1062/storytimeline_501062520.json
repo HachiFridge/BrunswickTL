@@ -1,0 +1,210 @@
+{
+  "title": "お待ちかねのランチ",
+  "no_wrap": false,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "At lunchtime, students are crowding into the school store.\nAt the very back of the line are Matikanetannhauser and the others."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "...I shall now convey the oracle from the White Key-sama.\nOmachi-san is——"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Gulp...! W-what about me...?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Today, as always, it's a Great Luck Fever!\nEspecially during lunchtime, there are signs of good fortune!!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Whoaaaaaa!!\nSo that means I can eat the popular bread that's always selling out!?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Melon bread, cream bread, carrot pa~n♪\nPan-pa-pa-paan!"
+    },
+    {
+      "name": "School Store Auntie",
+      "text": "Sorry, everyone~!\nMelon bread, cream bread,\nand carrot bread are all sold out~~!!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Huh, whaaat!?\nBut it was supposed to be Great Luck...!?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Th-that's strange...\nDid I make some mistake in the fortune-telling method...?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "No, no, it's fine!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "It just means the Great Luck I'm grasping\nisn't about bread!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Let's try going to the cafe next!\nWait for me, my luck~~♪"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Ah, please wait~!"
+    },
+    {
+      "name": "",
+      "text": "Curious about Matikanetannhauser and the others,\nI decided to follow them."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Wow, look at this!\nThis sign!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "\"New Menu: Stewed Carrot Hamburger,\"\nlimited to 10 servings...!?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "This must be it! Today, Omachi-san is\ndestined to grasp this rare lunch!"
+    },
+    {
+      "name": "",
+      "text": "And so, the two of them lined up\nand waited for their turn to order, but..."
+    },
+    {
+      "name": "Cafe Auntie",
+      "text": "Sorry about that~.\nThe limited lunch is all sold out~."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Huh!? Sold out here too!?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Whaaat!? Wh-what does this mean!? Shiraoki-sama's fortune telling not once, but twice!?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Happiness is right in front of my eyes! This is strange, really!!",
+      "choice_data_list": [
+        "You get so close, but...",
+        "You get so close, but..."
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ah, Trainer. ...You saw that, huh."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Well~, being just one step away from reaching it is... kinda like my usual self, you know... ahaha."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "But, but—"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Lunch break isn't over yet! The bread and limited lunch were sold out, but that means an even luckier lunch is waiting!",
+      "choice_data_list": [
+        "...Huh? Is that so?",
+        "...Huh? Is that so?"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Aaaaaah! I see, that's what it was!! The key is Omachi-san's indomitable fighting spirit...!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Facing adversity with a positive heart! This must have been the fortune telling that calls for super big luck!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Yes, Fuku-chan senpai! It's definitely a super rare lunch now!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "But, where should we go to eat it? Hmmmm."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Where do you think it is, Trainer? The super rare lunch!",
+      "choice_data_list": [
+        "Let's boldly head back to the school store!",
+        "Let's wait patiently for luck to come"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "I see~, going back to basics, huh. That might be good!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Yes! The original oracle said 'Good fortune lies at the school store'!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Oh dear~, completely sold out. Where's that super rare lunch..."
+    },
+    {
+      "name": "School Store Auntie",
+      "text": "Oh, you two came at just the right time! Actually, some newly released bread just arrived~. Want to try a sample?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Hmm, this is... 'Super Delicious Muscat Bread'!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Amazing! The fruit aroma is so strong~!"
+    },
+    {
+      "name": "Both",
+      "text": "Let's eat~~♪"
+    },
+    {
+      "name": "",
+      "text": "The two savored the delicious bread that no one had tasted before!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "I see, with me as I am now, luck comes to me instead."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Let's also perform a prayer to summon even more fortune! Hmmmmmm...!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Lunch time, munch munch chomp! Kyoooooooooey!"
+    },
+    {
+      "name": "Cafe Auntie",
+      "text": "Oh my, you two. Haven't you had lunch yet?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "That's right. I'm so hungry~."
+    },
+    {
+      "name": "Cafe Auntie",
+      "text": "If you'd like, why not have my bento? I was taste-testing lunch and got too full."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Wow, spring rolls, hamburg steak, oden... The side dishes are packed!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "If it's the auntie's bento, it's guaranteed delicious! So this is what the oracle meant!"
+    },
+    {
+      "name": "",
+      "text": "Matikanetannhauser and the others enjoyed an ultra-rare bento!"
+    }
+  ]
+}

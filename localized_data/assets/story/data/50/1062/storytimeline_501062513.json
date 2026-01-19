@@ -1,0 +1,190 @@
+{
+  "title": "『普通』の先へ",
+  "no_wrap": false,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "――Tomorrow is the day of Matikanetannhauser's interview."
+    },
+    {
+      "name": "",
+      "text": "Thinking I should at least have a quick meeting, I enter the trainer's room――"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "――Mackerel can!!",
+      "choice_data_list": [
+        "Whoa!?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "………….\nHaa, crab can, squid can, curry can……!\nSixth sense, gut feeling, battleship……!"
+    },
+    {
+      "name": "",
+      "text": "……Matikanetannhauser is single-mindedly chanting what seems to be a mysterious incantation.\nAnd――for some reason, in her racing outfit.",
+      "choice_data_list": [
+        "……What are you doing?",
+        "……What are you doing?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Huh!? Trainer!?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Whoops~sorry. I'm in the middle of something important.\nI was chanting a spell to help me focus.",
+      "choice_data_list": [
+        "A spell to help you focus……?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "See, I have an interview tomorrow, right?\nTo prepare, I picked up some fresh, recommended focus methods~."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Alright~, next focus method is……calligraphy!!\nI'll go get the ink and paper!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Mufufu, 'Righteous Judgment Unification' 'Ikkyu Soul Infusion'!\nI think I wrote some pretty good characters!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Mmm……here it comes, here it comes!\nThe focus power is surging up from within my body~!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "That earlier spell and this calligraphy are both focus methods I learned for today."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "I have to report the interview's success as a souvenir for my two masters~."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Yeah yeah, I'm starting to get a feel for the real thing.\nQuestions that are sure to come are, 'What's your favorite food?'\n'Are you a dog or cat person?' and such.",
+      "choice_data_list": [
+        "……Is the racing outfit also part of the focus method?",
+        "……Is the racing outfit also part of the focus method?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ah, yes!\nThis is a focus method I came up with myself."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "……This racing outfit, you see.\nIt gives me the most courage,\nyou could say it's a special item."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Because……this racing outfit is proof that\n'ordinary' me took a step forward!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "――When I came to the academy, I decided. I'm\na 'normal girl' who got in by luck, but\nI won't lose to anyone in effort!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "……But still, no matter how hard I tried,\nI thought I'd probably stay 'ordinary'~."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "However……something 'not ordinary'\nhappened!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "A racing uniform is proof that you can run in G1 races.\nIn other words... it means you've achieved something...\nthat's not 'ordinary,' right!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ahh, I was really happy, you know!\nI called my family back home, and right after receiving it,\nI even sent a selfie to my local friends--"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "--Hehe. Well, getting a racing uniform,\njust like getting into the academy, is probably\njust a pile of luck, I think."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "But luck is really important, you know.\nJust like Fukuchan-senpai always says."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "The luck of making lots of friends to work hard with.\nThe luck of being able to run with amazing girls and\nfeeling like I want to work even harder."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "And, above all...\nThe luck of meeting you, Trainer!",
+      "choice_data_list": [
+        "...That goes for me too.",
+        "...That goes for me too."
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Huh, thank you!\nAhh, even though I brought it up myself,\nI'm getting a little embarrassed~."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Well~, anyway. So, like that,\nI'll get super not-ordinary power from my racing uniform too!\nI'll go ace that interview tomorrow!",
+      "choice_data_list": [
+        "Go take it with confidence.",
+        "Let's get pumped up together!"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Yes! Of course, of course!",
+      "choice_data_list": [
+        "You are... special!",
+        "You are... special!"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ooh~! I've been infused with\nTrainer's special cheering power!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "You're absolutely right, tomorrow\nI'll go in special mode for sure!\nIt's a promise between Omachi-chan and you!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Pinky swear,\nIf I lie, I'll eat a sea urchin~!"
+    },
+    {
+      "name": "",
+      "text": "Her spirit was full, her focus perfect... And so,\nMatikanetannhauser was able to take on the interview\nin perfect condition."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ooh, let's do it!\nThen for the cheer, let's do the usual one!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Alright... I'll do my best at tomorrow's interview~!\nShoo~...!",
+      "choice_data_list": [
+        "Hup, hup!"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Mmph!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "And~! From now on in races too~!\nAll of them~! I'll do my best~!",
+      "choice_data_list": [
+        "Ei, ei!"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Muuun!!!!"
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "title": "おもてなしの反対",
+  "no_wrap": false,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "When I was out with Matikanetannhauser and about to return to the academy—"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "W-w-wait! Hold on going back! Today isn't over yet!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Actually, since you're always taking care of me, Trainer, I thought I'd return the favor with some hospitality.",
+      "choice_data_list": [
+        "Hospitality...?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Yes! And to make sure I can do it properly, I've invited an advisor too."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Now then, here we go! Ta-da!"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Hello, I'm Ikuno Dictus. I'll do my best to meet your expectations, so please take care of me."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ikuno-sensei, thank you for today! Let's give Trainer the best hospitality!"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Understood. I've prepared a 'hospitality' plan, so leave it to me."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "We're here! We're doing the 'hospitality' here, right!?"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Yes. But before that, one thing about 'hospitality'—"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "First, what is 'hospitality'? The answer I've learned is, in a word, 'an act of empathizing with the other person's heart.'"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "I see, I see! And then, and then!?"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "First, let's explore Trainer-san's preferences. Could you do some shopping freely?",
+      "choice_data_list": [
+        "Got it!"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Alright, let's go find Trainer!"
+    },
+    {
+      "name": "",
+      "text": "While under the intense gaze of the two, I'm looking around the store..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ah, how about that stuffed animal? Its eyes are sparkly! It has lots of legs too! It's perfect for Trainer!",
+      "choice_data_list": [
+        "I can't decide right away"
+      ]
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "That's right, Tannhauser-san. Rushing is a no-no."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ah, Ikuno-sensei's hospitality class! Wait a sec, I'll take notes!"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Ahem... Earlier, I said 'hospitality' is an act of empathizing with the heart."
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "That's not limited to tastes and preferences. As a premise, creating a comfortable distance and pace is also important."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "So... you're saying I shouldn't force it on them?"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Yes, that's right.\r\nLet's proceed without forgetting the spirit of consideration."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Whoa~! As expected of Ikuno-sensei!\r\nI think I can do a perfect job of hospitality!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "But there are so many important points, huh~.\r\nJust taking notes is a real struggle...\nNo, maybe it's more like six struggles?",
+      "choice_data_list": [
+        "Want some help?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Oh, is that okay?\r\nThen, I'll be counting on you!"
+    },
+    {
+      "name": "",
+      "text": "And the lecture continued, with Matikanetannhauser and\r\nthe two of us taking notes diligently..."
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "--And that's about it.\r\nThis concludes the intermediate level of 'hospitality.'"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Hospitality is really deep, huh!\r\nMy notes are packed full~!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Trainer, thank you for helping with the notes.\r\nWith this, I can show 'hospitality' to you--"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Aaaaaahhhh!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "I, I was trying to show hospitality to you, Trainer,\r\nbut I ended up getting help again...!?"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "...Hah. Sorry!\r\nI got too into it and ended up...!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "I meant to show hospitality,\r\nbut this is more like 'hospi-received'~!",
+      "choice_data_list": [
+        "Just use it for the future!",
+        "You don't have to push yourself."
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "That's right!\r\nI'll make sure to remember what I learned today!"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Then, let me ask a question.\r\nWhen showing 'hospitality,'\nwhat must you not forget?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Umm, let's see...\r\nMem... mem... memory-making!"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Close!\r\nThe correct answer is 'the spirit of consideration.'"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Whoa~, it really is deep!\r\nI'll study more--!"
+    },
+    {
+      "name": "",
+      "text": "Matikanetannhauser was psyching herself up\r\nfor the next 'hospitality' challenge."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "You don't have to worry about me!\r\nI'm not pushing myself at all!"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Hmm... 'Don't push yourself'... does that mean 'It's better to be natural'?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ah, I see! Be natural! Naturally... shizen ni..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Trainer... thank you as always..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Huh, something's weird!? Am I always like this!?"
+    },
+    {
+      "name": "",
+      "text": "And so, Matikanetannhauser ended the day with her awkward way of speaking..."
+    }
+  ]
+}

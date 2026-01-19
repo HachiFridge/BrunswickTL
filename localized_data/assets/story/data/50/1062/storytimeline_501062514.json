@@ -1,0 +1,199 @@
+{
+  "title": "神父マチタンと結婚式",
+  "no_wrap": false,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "One day, while taking a walk in the park, I was suddenly stopped by a familiar voice."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ooooh~! Savior~! Trainer, over here~!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Whew, oh my. I'm glad you happened to pass by."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Actually, you see, I'd like to ask you to be the go-between for a wedding ceremony starting now.",
+      "choice_data_list": [
+        "Huh...?"
+      ]
+    },
+    {
+      "name": "Girl",
+      "text": "Shinpu-sama, is that person the \"go-between\"? Then let's start, let's start!"
+    },
+    {
+      "name": "",
+      "text": "Looking toward the voice, a boy and girl, about kindergarten age, were sitting together on a leisure sheet."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Oh my... Actually, I ended up being the priest and MC for these kids' pretend wedding ceremony."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "But they said they won't do it without a go-between~... Haha. Um... Sorry, but could you do me one favor?"
+    },
+    {
+      "name": "",
+      "text": "And so... For the sake of Matikanetannhauser in trouble, I decided to take on the role of go-between here, but—"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "—Now then, groom-kun, bride-chan. Do you vow to love each other in sickness and in health?"
+    },
+    {
+      "name": "Groom and Bride",
+      "text": "Yes!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "What a good answer~. Vows, passed!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...So, what do we do after this again? Um, um—"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "............ Since we're at it, I'll make a vow too.",
+      "choice_data_list": [
+        "!?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "I vow to make everyone vow everything, in sickness and in health."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "And the go-between—anyway, you must vow to mediate everything. Okay?",
+      "choice_data_list": [
+        "...I vow?"
+      ]
+    },
+    {
+      "name": "Groom Boy",
+      "text": "...Um, miss. Isn't this wedding ceremony a bit too vow-heavy?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "W-w-what are you saying!? This is a proper ceremony indeed! Next is, um, um...!"
+    },
+    {
+      "name": "",
+      "text": "The ceremony, which had been pushed through with trickery, was finally starting to fall apart—that's when it happened."
+    },
+    {
+      "name": "Mysterious Girl",
+      "text": "—Hey! What are you doing getting married without permission, Ma-kun!"
+    },
+    {
+      "name": "Groom Boy",
+      "text": "Huh, wait, hold on...!\nThis is just a game...!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Huh? What?\nWhat do you mean?"
+    },
+    {
+      "name": "Mysterious Girl",
+      "text": "A game? Oh, I see. What a ridiculous joke.\n...It must have felt good, huh?\nPlaying with a maiden's heart and mocking her!"
+    },
+    {
+      "name": "",
+      "text": "...I don't really get it,\nand I don't really want to,\nbut in short... it's a love triangle showdown!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Hmm... Fighting is no good!\nAs an adult, I have to stop this!\nLet's go, Trainer!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "--Yes! Yes! Everyone, attention!\nWho do you think this person here is?!"
+    },
+    {
+      "name": "Bride Girl",
+      "text": "Who...? It's Nakodo-san, right?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "That's right! The matchmaker who brings together\nall kinds of couples in this world! Therefore,\nin front of this person, no one is allowed to fight!"
+    },
+    {
+      "name": "Mysterious Girl",
+      "text": "What's that supposed to be!? You can't just decide that...!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Trainer! Fire the Matchmaker Beam!",
+      "choice_data_list": [
+        "...Bibibibibibibi!!"
+      ]
+    },
+    {
+      "name": "Children",
+      "text": "Whoa!?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "See, now everyone's getting along nicely.\nOkay, from now on, let's all three play together."
+    },
+    {
+      "name": "Children",
+      "text": "Y... yes...!"
+    },
+    {
+      "name": "",
+      "text": "Thanks to Matikanetannhauser's quick thinking (?),\nthe fight was settled in an instant."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Making them swear no matter the situation—\nthat's the way of this priest.",
+      "choice_data_list": [
+        "As expected of the priest!",
+        "You're like everyone's big sister.",
+        "You're like everyone's big sister, huh."
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Heh heh heh! Now then,\nlet's continue with the priest's great judgment."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "To avoid love triangle showdowns like this,\nI, your big sister, think you all need to\nlearn more deeply about love."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "So! This Machitan Priest Big Sister\nwill give you all a love lecture!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Um, okay, first point number one!\nDon't say you like just anyone!\nAnd then—"
+    },
+    {
+      "name": "",
+      "text": "...More like common sense than love. But anyway,\nMatikanetannhauser succeeded in giving the\nkindergarteners her own style of moral education."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Mufufu. I've always been good at dealing with little kids, you know. Like stopping fights between my brother and his friends."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Now then, let's continue the wedding... Actually, that might get complicated again, so let's play something else~!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Tag? Red light, green light? Whatever we do, promise we'll all get along!"
+    },
+    {
+      "name": "",
+      "text": "And so, the five of them played for a while... The children were able to make up completely."
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "title": "目指せ！頼れるお姉ちゃん",
+  "no_wrap": false,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "While walking with Matikanetannhauser, an unexpected person's voice caught my ear."
+    },
+    {
+      "name": "???",
+      "text": "Mmm... immature!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Huh? That voice...?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "It's the director after all! What's wrong~, being here alone like this?"
+    },
+    {
+      "name": "Yayoi Akikawa",
+      "text": "Today is a rare private day... so I extended my steps to the amusement park, but—"
+    },
+    {
+      "name": "Yayoi Akikawa",
+      "text": "I forgot! There are many attractions you can't ride without a guardian accompanying you!"
+    },
+    {
+      "name": "Yayoi Akikawa",
+      "text": "I've been building up ideas in preparation for today, yet to retreat empty-handed... how regrettable!!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Mmm... Trainer! This is the time for our rescue duo to step in!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Director! Don't worry! You have a guardian right here, don't you!"
+    },
+    {
+      "name": "Yayoi Akikawa",
+      "text": "What!? You two will accompany me!?"
+    },
+    {
+      "name": "Yayoi Akikawa",
+      "text": "Many thanks! I'll gratefully accept your kindness! Now, let's challenge the amusement park attractions again!"
+    },
+    {
+      "name": "Yayoi Akikawa",
+      "text": "Ohh, with all my feelings! Isn't the very scene I dreamed of spreading out before my eyes!"
+    },
+    {
+      "name": "Yayoi Akikawa",
+      "text": "I can't stand this! First... the standard move! Let's head straight for the roller coaster!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Mufufu. Somehow, seeing you like this, the Director seems like a normal child too."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "It reminds me of my little brother when he was young.\r\n...Hmm.",
+      "choice_data_list": [
+        "What's wrong?",
+        "What's wrong?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...I've decided! For today, I'll be the Director's big sister!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "You always take care of us! I'll look after you as much as possible so you can enjoy yourself to the fullest, big sister Machitan!",
+      "choice_data_list": [
+        "...Can you do it?",
+        "...Can you do it?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "No problem! I've been a big sister ever since my brother was born, so I'm a veteran!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Director, Director! Which ride do you want to go on next?"
+    },
+    {
+      "name": "Yayoi Akikawa",
+      "text": "Hmm! Since we've had gentle attractions like the Ferris wheel and teacups,\r\nI plan to challenge the free fall next!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Understood! Then, big sis... I'll be your guide~! I think it's left from here——"
+    },
+    {
+      "name": "Yayoi Akikawa",
+      "text": "Doubt! According to the map over there, isn't the freefall on the right route?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Huh? ...Oh, you're right."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "——Whoa! Look over there! It's a special carrot soft serve! You want some, right!? Director!"
+    },
+    {
+      "name": "Yayoi Akikawa",
+      "text": "Hmm, intriguing! The only way is to taste it!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Hehehe, I knew it, I knew it! Then, I'll go buy it for you!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...Wait, whoa~!"
+    },
+    {
+      "name": "Yayoi Akikawa",
+      "text": "A fall!? ...Nosebleed! Use this tissue immediately!"
+    },
+    {
+      "name": "Yayoi Akikawa",
+      "text": "——Satisfied! No, thanks to you two, it's been a truly wonderful day off!"
+    },
+    {
+      "name": "Yayoi Akikawa",
+      "text": "By the way... Tannhauser! Truly, being energetic and cheerful is splendid! I had fun thanks to you!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Tehehe... Not that much."
+    },
+    {
+      "name": "Yayoi Akikawa",
+      "text": "But... I'm a little worried! Please be careful and lead a healthy school life!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Yes~!"
+    },
+    {
+      "name": "Yayoi Akikawa",
+      "text": "Well then, farewell! I'll never forget today's memories!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...Wait, huh!? I'm being genuinely worried about!?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Th-that can't be...! All day today, I was supposed to be the Director's reliable big sis...!",
+      "choice_data_list": [
+        "You were doing great as a big sis",
+        "You were doing great as a big sis",
+        "If anything, the opposite..."
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Phew... That's right! There's no way I, with over a decade of big sis experience, couldn't be a big sis... tehehe.",
+      "choice_data_list": [
+        "...Maybe you actually weren't doing great"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Huh!?",
+      "choice_data_list": [
+        "...Just kidding"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Wh-which is it~! Come on~!"
+    },
+    {
+      "name": "",
+      "text": "Becoming a 'reliable big sis' seems like it's still a ways off. ...Though maybe a 'natural airhead big sis' is another story."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Whaaat!? No way~!?\nM-My pride as an active older sister...!",
+      "choice_data_list": [
+        "But the Director was enjoying it",
+        "But the Director was enjoying it"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "! That's right! That's what matters most!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "I had a lot of fun too.\nI hope we get another chance to play together as a trio~."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "And when that time comes... I'll show you I can be a reliable older sister!"
+    }
+  ]
+}

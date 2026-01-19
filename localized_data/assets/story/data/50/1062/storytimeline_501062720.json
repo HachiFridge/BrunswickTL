@@ -1,0 +1,565 @@
+{
+  "title": "あんし～ん笹針師、参☆上",
+  "no_wrap": false,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "One day, <chrname> came to the infirmary to have their physical condition checked, and——"
+    },
+    {
+      "name": "???",
+      "text": "Ah, yes, yes! A customer... no, a student!"
+    },
+    {
+      "name": "???",
+      "text": "Injury? Illness? Or mental care? Well, just leave it all to me!",
+      "choice_data_list": [
+        "...Who are you!?"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Huh? Well, since I'm in the infirmary... a slightly fantastic health teacher? Something like that?",
+      "choice_data_list": [
+        "That's not it, right...?"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Ah-ha-ha, as expected, you're not fooled. I guess I'll introduce myself normally."
+    },
+    {
+      "name": "???",
+      "text": "Ahem! For your information, I am——"
+    },
+    {
+      "name": "???",
+      "text": "The savior who guides (probably) countless Umamusume! The legendary (self-proclaimed) bamboo needle master with miraculous hands!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "The name is 'Sasami Anshinzawa'! Wow, feel at ease~☆",
+      "choice_data_list": [
+        "…………"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Huh... what's this? A comedian? Or a suspicious person...?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Wow, you don't seem at ease~☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Well, well, well, well, for now. Now that introductions are done, shall I give you a little poke?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Huh? A little poke, meaning... you'll stab me!? No way!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ah-ha-ha! No need to be scared! I'll just hit a secret pressure point with my secret bamboo needle."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Then, you'll get... amazingly... tremendously... in short, something super incredible will happen!",
+      "choice_data_list": [
+        "(This is incredibly suspicious...)"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ah! Let me tell you, it's not suspicious! I've never failed even once!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...My master has.",
+      "choice_data_list": [
+        "Your master 'has'!?"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Well, well, this is my first job too, so in a broad sense, I've never failed!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "I have experience training for 10 years under a legendary master, serving tea... no, I mean, training."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Wow, feel at ease~☆",
+      "choice_data_list": [
+        "(It's suspicious to the point of bursting out...!)"
+      ]
+    },
+    {
+      "name": "",
+      "text": "There's no way I could go along with such a story. I tried to leave with <chrname>, but——"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "W-wait wait wait, wait I said!!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "You're Matikanetannhauser-chan, right!?\nThe super positive Umamusume who keeps working hard today, tomorrow, and the day after, never seeing effort as a struggle!",
+      "choice_data_list": [
+        "...You know about me?"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Of course I know! I saw it!!\nI'm a fan, after all!!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "I came here to cheer you on!\nI came to help, with this!!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "So pleeease~~~!!\nGive me a chance, okay~!!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "She seems kind of pitiful, but...\nGetting stabbed might be a bit...~."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Please please please!\nI'll even let you pick the pressure point location!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "I'll absolutely not fail~!!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Probably.",
+      "choice_data_list": [
+        "Probably!?"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ah—no, like, an absolute that's close to probably? Something like that?\n...Well, the details don't matter!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "More importantly, what kind of pressure point should I aim for!?\nThere's ones for ability up, health up...\nEven charm up, you know!!"
+    },
+    {
+      "name": "",
+      "text": "...It smells terrifyingly dangerous, but\nmaybe there's a possibility of amazing effects\nthat can't be ruled out... perhaps."
+    },
+    {
+      "name": "",
+      "text": "What should we do...?",
+      "choice_data_list": [
+        "Aim for a pressure point that makes you a strong Umamusume",
+        "Aim for a pressure point that lets you win races",
+        "Aim for a pressure point that makes you healthy and energetic",
+        "Aim for a pressure point that boosts charm",
+        "It's too worrisome, so let's not do it"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Hmm hmm,\n'A pressure point that makes you a strong Umamusume,' huh!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Then I'll go stabby-stab, okay? You're sure?\n...Reeeeeeeeeally, sure?",
+      "choice_data_list": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Okay okay, leave it to me!\nCome forth, bamboo needle! Find the pressure point!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Now relax~... Whoa, relax~☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Stabby-stab!!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Eek!?"
+    },
+    {
+      "name": "",
+      "text": "Stabby-stab, great success!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...Whoa!? Whoooa!?\nS-somehow, power's\nwelling up inside me!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Amazing! You're a master~!\nSuspicious, but the real deal! I'm moved!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Huh, success? For real!? Huh!?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "No way~~~!!\nHow did I do that~!?!?\nGenius~~~~!!"
+    },
+    {
+      "name": "",
+      "text": "<chrname> was brimming with power,\nlooking completely transformed!"
+    },
+    {
+      "name": "",
+      "text": "It seems they've grasped their potential.\nI felt them take a big step forward toward their dream...!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Huh? Huh-huh...?\nM-my vision's spinning round and round..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "S-something, a giant tomato juice,\nI can see it... Eek, no, don't,\ncome over here~... I don't wanna drink it~...!"
+    },
+    {
+      "name": "",
+      "text": "<chrname> was visibly\nlosing their condition..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ah~... Well, that's... you know?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Wow, goodbye~☆"
+    },
+    {
+      "name": "",
+      "text": "They greatly regretted that they shouldn't have\nfallen for such a suspicious invitation..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Hmm hmm,\n'Aiming for the secret pressure point to win races,' huh!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Then I'll poke it in! Okay?\n...Reeeeeeeeeally, okay?",
+      "choice_data_list": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Okay okay, leave it to me!\nAppear, bamboo needle! Find the secret pressure point!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Now relax~... Wow, anshin~☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Poke it in!!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Eek!?"
+    },
+    {
+      "name": "",
+      "text": "Poke it in, great success!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...Whoa!? Whoooa!?\nS-somehow, power's\nwelling up inside me!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Amazing! You're a master!\nIt's suspicious, but it's real! I'm so moved!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Huh, success? Seriously!? Huh!?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "No way~~~!!\nHow did I do that~!?!?\nI'm a genius~~~~!!"
+    },
+    {
+      "name": "",
+      "text": "I felt <chrname>'s skill level increase significantly!"
+    },
+    {
+      "name": "",
+      "text": "It seems you've grasped a possibility.\nI felt you've taken a big step forward toward your dream...!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Huh? Huh-huh...?\nM-my vision is spinning..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "S-something, a giant tomato juice is visible... oh no, don't come this way~... I don't wanna drink it~...!"
+    },
+    {
+      "name": "",
+      "text": "<chrname> was visibly losing their condition..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ah~... well, that's... you know?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Wow, goodbye~☆"
+    },
+    {
+      "name": "",
+      "text": "I deeply regretted that I shouldn't have fallen for such a suspicious invitation..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Hmm hmm,\n'Aiming for the secret point that makes you energetic and healthy,' huh!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Then I'll poke it in, okay? Is that fine?\n...Reeeeeeeeeally, is it fine?",
+      "choice_data_list": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Okay okay, leave it to me!\nAppear, bamboo needle! Find the secret point!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Now relax~... Wow, relax~☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Poke it in!!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Eek!?"
+    },
+    {
+      "name": "",
+      "text": "Poke it in, big success!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...Oh!? Ooooh!?\nS-somehow, power is welling up vigorously!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Amazing! You're a master!\nIt's suspicious, but it's real! I'm so moved!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Huh, success? For real!? Huh!?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "No way~~~!!\nHow did I do that~!?!?\nI'm a genius~~~~!!"
+    },
+    {
+      "name": "",
+      "text": "<chrname>'s whole body was so glossy it looked like it was about to shine!\nHealthy energy was bursting forth...!"
+    },
+    {
+      "name": "",
+      "text": "It seems they've grasped a possibility.\nI felt them take a big step forward toward their dream...!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Huh? Wha-what's this...?\nM-my vision is spinning round and round..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "S-something, a huge tomato juice is\nvisible... oh no, no, don't,\ncome over here~ee... I don't wanna drink it~...!"
+    },
+    {
+      "name": "",
+      "text": "<chrname> was visibly\nlosing their condition..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ah~... well, that's... you know?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Wow, goodbye~☆"
+    },
+    {
+      "name": "",
+      "text": "They greatly regretted that they shouldn't have fallen for such a suspicious invitation..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Hmm hmm,\n'Aim for the charm-boosting pressure point,' huh!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Then I'll poke it in! Okay?\n...Are you reeeeeeeeeally sure?",
+      "choice_data_list": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Okay okay, leave it to me!\nAppear, bamboo needle! Find the pressure point!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Now relax~... Wow, anshin~☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Poke it in!!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Hyoeh!?"
+    },
+    {
+      "name": "",
+      "text": "Poke-in big success!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...Oh!? Oooh!?\nS-somehow, power is\nwelling up vigorously!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Amazing! You're a master~!\nSuspicious but the real deal! I'm moved!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Huh, success? For real!? Huh!?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "No way~~~!!\nHow did I do that~!?!?\nI'm a genius~~~~!!"
+    },
+    {
+      "name": "",
+      "text": "<chrname> was overflowing with a charm that made everyone passing by want to turn and look!"
+    },
+    {
+      "name": "",
+      "text": "It seems you've grasped the possibility.\nI felt you took a big step forward toward your dream...!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Huh? Wha-what's this...?\nM-my vision is spinning round and round..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "S-something, a giant tomato juice is visible... oh no, don't, don't come this way~... I don't wanna drink it~...!"
+    },
+    {
+      "name": "",
+      "text": "<chrname> was visibly losing their condition..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ah~... well, that's... you know?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Wow, goodbye~☆"
+    },
+    {
+      "name": "",
+      "text": "I deeply regretted that I shouldn't have taken such a suspicious invitation..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Huh!? C-come on, don't say that~...",
+      "choice_data_list": [
+        "I'll pass",
+        "I'll reconsider"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "--Hey, you!\nYou've trespassed into the academy, haven't you!?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Gyah-ha!? Oh no, I've been caught!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Wow, I'm outta here~☆"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Ah!? W-wait a minute!!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...That was quite a person, wasn't it."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "But, my parents and little brother always said all-or-nothing isn't good.\nI wonder if this was the right thing...",
+      "choice_data_list": [
+        "Yeah",
+        "Yeah"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Who was Anshinzawa...\nIt seemed pointless to think about it, so I decided to forget today's incident."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Oops, did I mess up?\nWell, it happens, happens all the time, right!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Okay, tell me one more time.\nWhich pressure point should I target!?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "You're making me wait~!?\nNo but wait, if I take this much time--"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Hey, you! You've trespassed onto the academy grounds, haven't you!?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Gyahaa!? Oh no, we've been spotted!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Whoa, time to scram~☆"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Ah!? W-wait a second!!"
+    },
+    {
+      "name": "",
+      "text": "...If I kept worrying about it forever, it somehow ended up getting all muddled."
+    },
+    {
+      "name": "",
+      "text": "What in the world was that... <chrname> and I exchanged glances, tilting our heads in confusion."
+    }
+  ]
+}

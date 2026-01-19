@@ -42,11 +42,11 @@ Currently working on character system text as my main priority. (Filling the mis
 | 1018 | Air Groove         | 28  | 28  | Complete    |
 | 1019 | Agnes Digital      | 65  | 65  | Complete    |
 | 1020 | Seuin Sky          | 72  | 72  | Complete    |
-| 1062 | Matikanetannhauser | 75   | 232 | In Progress |
-| 1063 | Ikuno Dictus       | 231  | 231 | Complete    |
-| 1064 | Mejiro Palmer      | 237  | 237 | Complete    |
-| 1065 | Daitaku Helios     | 139  | 254 | In Progress |
-| 1066 | Twin Turbo         | 20   | 194 | In Progress |
+| 1062 | Matikanetannhauser | 75  | 232 | In Progress |
+| 1063 | Ikuno Dictus       | 231 | 231 | Complete    |
+| 1064 | Mejiro Palmer      | 237 | 237 | Complete    |
+| 1065 | Daitaku Helios     | 139 | 254 | In Progress |
+| 1066 | Twin Turbo         | 20  | 194 | In Progress |
 
 </details>
 
@@ -56,7 +56,7 @@ Currently working on character system text as my main priority. (Filling the mis
 
 | ID   | Name               |Done |Total| Status      |
 |------|--------------------|-----|-----|-------------|
-| 1062 | Matikanetannhuser  | 45  | 160 | In Progress | 
+| 1062 | Matikanetannhuser  | 160  | 160 | In Progress | 
 | 1135 | Stay Gold          | 2   | 104 | In Progress |
 
 </details>

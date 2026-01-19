@@ -1,0 +1,58 @@
+{
+  "title": "追加の自主トレ",
+  "no_wrap": false,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Just as Matikanetannhauser's training had all finished--"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Trainer! I want to run a little more today!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Fuku-chan-senpai told me my lucky item for today is the 'moon'!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "If I run at night, I might get some amazing power! This could be a big chance to transcend my ordinary self!",
+      "choice_data_list": [
+        "Aim for a step up and do your best!",
+        "No, it'll lead to overwork."
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Yes! I'll power up with the moonlight, so look forward to it!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Alright, I'm off! Mufufu~♪"
+    },
+    {
+      "name": "",
+      "text": "That day, Matikanetannhauser kept running happily even after night fell."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Muu... But the power of the moonlight...",
+      "choice_data_list": [
+        "Is just looking at the moon not enough?",
+        "Is just looking at the moon not enough?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "--Ah, that's true. I wasn't specifically told to run."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Then today, I'll look at the moon in my room and get lots of power!"
+    },
+    {
+      "name": "",
+      "text": "Saying that, Matikanetannhauser returned to the dorm."
+    }
+  ]
+}

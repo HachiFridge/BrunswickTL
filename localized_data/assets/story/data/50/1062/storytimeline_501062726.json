@@ -1,0 +1,46 @@
+{
+  "title": "クレーンゲームに挑戦！",
+  "no_wrap": false,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "One day, while out with Matikanetannhauser――"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ah! Look, Trainer! There's a 'Paka Puchi'!"
+    },
+    {
+      "name": "",
+      "text": "Looking in the direction Matikanetannhauser pointed, there was a crane game with stuffed toys modeled after Umamusume."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "They're so cute～. Just looking at them makes me want one!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...No, but I decided to get a spider stuffed toy today, so I'll have to resist this one...",
+      "choice_data_list": [
+        "Then I'll get the 'Paka Puchi' for you",
+        "Then I'll get the 'Paka Puchi' for you"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Whoa! Are you sure!?",
+      "choice_data_list": [
+        "You can count on me!",
+        "You can count on me!"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Hehe. Thank you～. Do your best, Trainer!"
+    },
+    {
+      "name": "",
+      "text": "――I can't lose this game!!"
+    }
+  ]
+}

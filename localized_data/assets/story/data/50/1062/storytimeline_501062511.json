@@ -1,0 +1,191 @@
+{
+  "title": "シュビビッと解決！",
+  "no_wrap": false,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "While walking with Matikanetannhauser, I spotted Rice Shower looking troubled..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Rice-san, is something wrong? Are you having some trouble?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ah, yeah... This vending machine won't give me any juice."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "S-since I tried to buy it, maybe I broke it because of me..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "I see, I see. In that case, shall I try to fix it?",
+      "choice_data_list": [
+        "Can you really do that?",
+        "Can you really do that?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "It's fine, I fixed it when the TV at my parents' house stopped working too!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "B-but... this is my fault, so having you do it is..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "No need to hold back. Come on, let's cheer up this machine that's gotten its belly button in a twist!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "There, there, there... Vending machine-chan, did something bad happen?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "You've been working nonstop. You must be tired... Oh, want to eat a battery?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "It's okay, don't hold back! It's a present for you for working so hard!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "And so... beep beep!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Uh, umm............"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Phew... When I repeated this until it was fixed, the TV turned on with a flash, you know?",
+      "choice_data_list": [
+        "Wasn't that just a coincidence...?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Huh, really? Hmm, now that you mention it...?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...Then I'll keep trying until it's fixed. Hmph!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "No... this is too much trouble. Sorry for taking up your time? I'll figure it out on my own from here...!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "It's not trouble at all! In fact, I'm having fun with it!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Huh... you're having fun?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "I'm not normal, right? So, I get all excited about these 'not normal' things!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Rather, thank you!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "I-I'm the one who wants to thank you.\nNot just for the repairs, but for saying something like that..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Tannhauser-san... thank you."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "No, no, it's nothing!\nWell then, shall we resume the repairs?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Oh, should we try a different method?\nLike, a more 'bang' kind of approach..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...Trainer! Lend me your wisdom!\nThe 'bang' kind of thing!",
+      "choice_data_list": [
+        "Let's continue with your method",
+        "Let's continue with your method",
+        "Let's just ask for repairs"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...Trainer! Lend me your wisdom!\nThe 'bang' kind of thing!",
+      "choice_data_list": [
+        "Let's continue with your method",
+        "Let's continue with your method",
+        "Let's just ask for repairs"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "So we need to pour more love into the vending machine!\nYeah yeah, let's do it~!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Vending machine-chan... are you okay like this?\nIf you don't stand up now, when will you!?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ah, um... fight...!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Oh, thank you too, Rice-san!\nThe vending machine must be itching to move now, right?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "My... you two, why are you\ntalking to the vending machine?"
+    },
+    {
+      "name": "",
+      "text": "As Tazuna-san, who happened to be passing by, plugged in\nthe disconnected power cord, the vending machine\nsimply came back to life."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Huh, it wasn't broken!?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "No, please give me just a little more chance.\nI'll bring out my secret weapon."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Wait just a moment~~!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Matikanetannhauser-san ran off at an incredible speed...\nDid something happen?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Um... actually--"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "...Yes, this should do it.\nMaybe someone got caught on the plug."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Phew... so it wasn't broken.\nI have to tell Tannhauser-san...!"
+    },
+    {
+      "name": "",
+      "text": "A few minutes later, Matikanetannhauser returned with an armful of tools."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Huh, it's fixed already!?"
+    }
+  ]
+}

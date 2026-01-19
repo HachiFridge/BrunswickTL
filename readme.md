@@ -56,7 +56,7 @@ Currently working on character system text as my main priority. (Filling the mis
 
 | ID   | Name               |Done |Total| Status      |
 |------|--------------------|-----|-----|-------------|
-| 1062 | Matikanetannhuser  | 40  | 160 | In Progress | 
+| 1062 | Matikanetannhuser  | 45  | 160 | In Progress | 
 | 1135 | Stay Gold          | 2   | 104 | In Progress |
 
 </details>

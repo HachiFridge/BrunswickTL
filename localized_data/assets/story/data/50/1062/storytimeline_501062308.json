@@ -1,0 +1,225 @@
+{
+  "title": "日本ダービーの後に・勝利のタグ！",
+  "no_wrap": false,
+  "text_block_list": [
+    {
+      "name": "Announcer",
+      "text": "Matikanetannhauser has conquered the 2400 meters!"
+    },
+    {
+      "name": "",
+      "text": "(Whaaa——!)"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...I did it..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Y-y-y-y-y-y, I did it~~~!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "I got it, Trainer!!"
+    },
+    {
+      "name": "Spectator A",
+      "text": "Matikanetannhauser!?\nNo way, I'm shocked...!"
+    },
+    {
+      "name": "Spectator A",
+      "text": "I can't believe Mihono Bourbon lost!\nRice Shower was running well too..."
+    },
+    {
+      "name": "Spectator B",
+      "text": "Hey, look over there!\nMihono Bourbon and Rice Shower are——"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...! I couldn't reach it...!\nI couldn't change again...!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "That's not true."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "You've leveled up significantly since the 'Satsuki Sho'.\nI could definitely feel it through your mark."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "You'll surely be the threat in the 'Kikuka Sho'."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Thank you, Bourbon-san...\nRice, Rice...!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Next time, I'll definitely get first place...!\nI'll become a Rice I can be proud of...!"
+    },
+    {
+      "name": "",
+      "text": "(Murmur...!)"
+    },
+    {
+      "name": "Spectator A",
+      "text": "No, I definitely read a bit about it in a quick online article the other day!"
+    },
+    {
+      "name": "Spectator B",
+      "text": "I read that too!\nIt said Mihono Bourbon is keeping an eye on her.\nI thought it was just exaggerated writing, but——"
+    },
+    {
+      "name": "Spectator A",
+      "text": "Wow, I can't believe it was true...!\nI'm suddenly looking forward to the 'Kikuka Sho'!"
+    },
+    {
+      "name": "",
+      "text": "Cheers and applause equal to those directed at Matikanetannhauser enveloped the two."
+    },
+    {
+      "name": "Spectator C",
+      "text": "Look, 'Mihono Bourbon' and 'Rice Shower' are trending!"
+    },
+    {
+      "name": "Spectator D",
+      "text": "Machitan won, but... I don't know. Isn't that a bit rude?"
+    },
+    {
+      "name": "Spectator C",
+      "text": "...Hey, as long as it doesn't get out of hand."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Huh, now that you mention it, I think more people were applauding Bourbon-san and the others?",
+      "choice_data_list": [
+        "Don't worry about it"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ah, no, no! I just mean, yeah, that's how it was~!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "It's Rice-san and Bourbon-san, after all. They're hot topics. It's normal to focus on them."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Besides, what matters is winning! In that sense, it's a perfect score!",
+      "choice_data_list": [
+        "Yeah, that's right",
+        "Yeah, that's right"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Oh, right. Trainer, want to take a photo together? I want to post it on SNS!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Actually, I've always dreamed of using the '#DerbyConquest' tag!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "——'I won the Japan Derby! I was so fired up, it really felt like a dream! I'll do my best in the Kikuka Sho too! (elephant emoji)'"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...Hey, Trainer. What do you think? Is this good? Should I throw in a joke or two?",
+      "choice_data_list": [
+        "I think that's a good comment as is"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Great! Then I'll send it~!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Phew, one task done! Truly cleaning up after a dream——"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ahhh!",
+      "choice_data_list": [
+        "What!?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...I forgot to add the tag...!"
+    },
+    {
+      "name": "",
+      "text": "In any case, the 'Japan Derby' closed its curtains with a wonderful result."
+    },
+    {
+      "name": "",
+      "text": "A few days later."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Hmm?",
+      "choice_data_list": [
+        "What's up?",
+        "What's up?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Well, it's about the comments on my post from the 'Japan Derby' the other day..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "'Truly, in competition, there's only winning and losing. I want to learn from that attitude!'"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "'Things like attention and whatnot—if the person herself isn't bothered by it, it's not something for others to fuss over.'"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "That's how everyone is, isn't it? Huh, what's this about? Attention and whatnot...?",
+      "choice_data_list": [
+        "That is——"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Actually, after the 'Japanese Derby,' while she placed first, other Umamusume were getting more attention, sparking arguments among fans."
+    },
+    {
+      "name": "",
+      "text": "But Matikanetannhauser herself didn't care at all, expressing her joy perfectly normally."
+    },
+    {
+      "name": "",
+      "text": "Her honest demeanor earned high praise online, leading to this situation——"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Is this... time for the secret art of ego-searching!?"
+    },
+    {
+      "name": "",
+      "text": "From start to finish, she really didn't seem to know.",
+      "choice_data_list": [
+        "(Is she not interested, or perhaps——)"
+      ]
+    },
+    {
+      "name": "",
+      "text": "She probably never imagined she'd be at the center of such an incident."
+    },
+    {
+      "name": "",
+      "text": "Anyway... next is the 'Kikuka Sho.' As always, I don't plan on losing."
+    }
+  ]
+}
